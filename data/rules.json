@@ -1,0 +1,1276 @@
+[
+  {
+    "id": "rule/01",
+    "lookUpId": "lookUp/01",
+    "keyphrase": "",
+    "content": "1. Bảo đảm chia sẻ rủi ro giữa những người tham gia bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/02",
+    "lookUpId": "lookUp/01",
+    "keyphrase": "mức đóng bảo hiểm thất nghiệp",
+    "content": "2. Mức đóng bảo hiểm thất nghiệp được tính trên cơ sở tiền lương của người lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/03",
+    "lookUpId": "lookUp/01",
+    "keyphrase": "mức hưởng bảo hiểm thất nghiệp",
+    "content": "3. Mức hưởng bảo hiểm thất nghiệp được tính trên cơ sở mức đóng, thời gian đóng bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/04",
+    "lookUpId": "lookUp/01",
+    "keyphrase": "thực hiện bảo hiểm thất nghiệp",
+    "content": "4. Việc thực hiện bảo hiểm thất nghiệp phải đơn giản, dễ dàng, thuận tiện, bảo đảm kịp thời và đầy đủ quyền lợi của người tham gia.",
+    "references": []
+  },
+  {
+    "id": "rule/05",
+    "lookUpId": "lookUp/01",
+    "keyphrase": "",
+    "content": "5. Quỹ bảo hiểm thất nghiệp được quản lý tập trung, thống nhất, công khai, minh bạch, bảo đảm an toàn và được Nhà nước bảo hộ.",
+    "references": []
+  },
+  {
+    "id": "rule/06",
+    "lookUpId": "lookUp/02",
+    "keyphrase": "",
+    "content": "1. Trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/07",
+    "lookUpId": "lookUp/02",
+    "keyphrase": "",
+    "content": "2. Hỗ trợ tư vấn, giới thiệu việc làm.",
+    "references": []
+  },
+  {
+    "id": "rule/08",
+    "lookUpId": "lookUp/02",
+    "keyphrase": "",
+    "content": "3. Hỗ trợ Học nghề.",
+    "references": []
+  },
+  {
+    "id": "rule/9",
+    "lookUpId": "lookUp/02",
+    "keyphrase": "",
+    "content": "4. Hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/10",
+    "lookUpId": "lookUp/03",
+    "keyphrase": "người lao động tham gia bảo hiểm thất nghiệp",
+    "content": "1. Người lao động phải tham gia bảo hiểm thất nghiệp khi làm việc theo hợp đồng lao động hoặc hợp đồng làm việc như sau:\na) Hợp đồng lao động hoặc hợp đồng làm việc không xác định thời hạn;\nb) Hợp đồng lao động hoặc hợp đồng làm việc xác định thời hạn;\nc) Hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn từ đủ 03 tháng đến dưới 12 tháng.\nTrong trường hợp người lao động giao kết và đang thực hiện nhiều hợp đồng lao động quy định tại khoản này thì người lao động và người sử dụng lao động của hợp đồng lao động giao kết đầu tiên có trách nhiệm tham gia bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/11",
+    "lookUpId": "lookUp/03",
+    "keyphrase": "người lao động không phải tham gia bảo hiểm thất nghiệp",
+    "content": "2. Người lao động theo quy định tại khoản 1 Điều này đang hưởng lương hưu, giúp việc gia đình thì không phải tham gia bảo hiểm thất nghiệp.",
+    "references": ["rule/10"]
+  },
+  {
+    "id": "rule/12",
+    "lookUpId": "lookUp/03",
+    "keyphrase": "người sử dụng lao động tham gia bảo hiểm thất nghiệp",
+    "content": "3. Người sử dụng lao động tham gia bảo hiểm thất nghiệp bao gồm cơ quan nhà nước, đơn vị sự nghiệp công lập, đơn vị vũ trang nhân dân; tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức chính trị xã hội - nghề nghiệp, tổ chức xã hội, tổ chức xã hội - nghề nghiệp; cơ quan, tổ chức nước ngoài, tổ chức quốc tế hoạt động trên lãnh thổ Việt Nam; doanh nghiệp, hợp tác xã, hộ gia đình, hộ kinh doanh, tổ hợp tác, tổ chức khác và cá nhân có thuê mướn, sử dụng lao động theo hợp đồng làm việc hoặc hợp đồng lao động quy định tại khoản 1 Điều này.",
+    "references": ["rule/10"]
+  },
+  {
+    "id": "rule/13",
+    "lookUpId": "lookUp/04",
+    "keyphrase": "hồ sơ tham gia bảo hiểm thất nghiệp",
+    "content": "1. Hồ sơ tham gia bảo hiểm thất nghiệp là hồ sơ tham gia bảo hiểm xã hội bắt buộc, trong đó bao gồm nội dung cụ thể về tham gia bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/14",
+    "lookUpId": "lookUp/04",
+    "keyphrase": "",
+    "content": "2. Người sử dụng lao động lập và nộp hồ sơ tham gia bảo hiểm thất nghiệp của người lao động cho tổ chức bảo hiểm xã hội trong thời hạn 30 ngày, kể từ ngày hợp đồng lao động hoặc hợp đồng làm việc của người lao động có hiệu lực.\nTrường hợp người lao động đã giao kết hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn từ đủ 03 tháng đến dưới 12 tháng trước ngày 01 tháng 01 năm 2015 và đang thực hiện hợp đồng lao động này thì người sử dụng lao động phải tham gia bảo hiểm thất nghiệp cho những người lao động này nếu thời hạn kết thúc hợp đồng còn ít nhất 03 tháng trở lên.\nTrường hợp người lao động giao kết nhiều hợp đồng lao động theo quy định tại Khoản 1 Điều 43 Luật Việc làm và đang tham gia bảo hiểm thất nghiệp theo hợp đồng lao động giao kết có hiệu lực đầu tiên mà khi chấm dứt hoặc thay đổi hợp đồng dẫn đến người lao động không thuộc đối tượng tham gia bảo hiểm thất nghiệp thì người lao động và người sử dụng lao động thuộc đối tượng tham gia bảo hiểm thất nghiệp của hợp đồng lao động giao kết có hiệu lực kế tiếp có trách nhiệm tham gia bảo hiểm thất nghiệp theo quy định của pháp luật.\nTrường hợp người lao động nghỉ việc hưởng chế độ thai sản hoặc ốm đau từ 14 ngày làm việc trở lên không hưởng tiền lương tháng tại đơn vị mà hưởng trợ cấp bảo hiểm xã hội, người lao động tạm hoãn thực hiện hợp đồng lao động hoặc hợp đồng làm việc đã giao kết theo quy định của pháp luật thì người lao động không thuộc đối tượng tham gia bảo hiểm thất nghiệp trong thời gian này.",
+    "references": ["rule/10"]
+  },
+  {
+    "id": "rule/15",
+    "lookUpId": "lookUp/05",
+    "keyphrase": "thời điểm đóng bảo hiểm thất nghiệp",
+    "content": "1. Thời điểm đóng bảo hiểm thất nghiệp của người sử dụng lao động và người lao động là thời điểm đóng bảo hiểm xã hội bắt buộc.",
+    "references": []
+  },
+  {
+    "id": "rule/16",
+    "lookUpId": "lookUp/05",
+    "keyphrase": "người lao động đóng bảo hiểm thất nghiệp",
+    "content": "2. Người lao động được xác định là đang đóng bảo hiểm thất nghiệp theo quy định tại Điều 49 Luật Việc làm khi thuộc một trong các trường hợp sau:\na) Người lao động đã đóng bảo hiểm thất nghiệp của tháng chấm dứt hợp đồng lao động hoặc hợp đồng làm việc và được cơ quan bảo hiểm xã hội xác nhận trên sổ bảo hiểm xã hội;\nb) Người lao động đã đóng bảo hiểm thất nghiệp của tháng liền kề trước tháng chấm dứt hợp đồng lao động hoặc hợp đồng làm việc và được cơ quan bảo hiểm xã hội xác nhận trên sổ bảo hiểm xã hội;\nc) Người lao động có tháng liền kề trước tháng chấm dứt hợp đồng lao động, hợp đồng làm việc hoặc tháng chấm dứt hợp đồng lao động, hợp đồng làm việc mà nghỉ việc do ốm đau, thai sản từ 14 ngày làm việc trở lên trong tháng, không hưởng tiền lương tháng tại đơn vị và được cơ quan bảo hiểm xã hội xác nhận trên sổ bảo hiểm xã hội;\nd) Người lao động có tháng liền kề trước tháng chấm dứt hợp đồng lao động, hợp đồng làm việc hoặc tháng chấm dứt hợp đồng lao động, hợp đồng làm việc mà nghỉ việc không hưởng lương từ 14 ngày làm việc trở lên trong tháng tại đơn vị và được cơ quan bảo hiểm xã hội xác nhận trên sổ bảo hiểm xã hội;\nđ) Người lao động có tháng liền kề trước tháng chấm dứt hợp đồng lao động, hợp đồng làm việc hoặc tháng chấm dứt hợp đồng lao động, hợp đồng làm việc mà tạm hoãn thực hiện hợp đồng lao động hoặc hợp đồng làm việc từ 14 ngày làm việc trở lên trong tháng tại đơn vị và được cơ quan bảo hiểm xã hội xác nhận trên sổ bảo hiểm xã hội.",
+    "references": ["lookUp/06"]
+  },
+  {
+    "id": "rule/17",
+    "lookUpId": "lookUp/05",
+    "keyphrase": "tháng đóng bảo hiểm thất nghiệp",
+    "content": "3. Tháng đóng bảo hiểm thất nghiệp của người lao động được tính nếu người sử dụng lao động và người lao động đã thực hiện hợp đồng lao động hoặc hợp đồng làm việc và đã đóng bảo hiểm thất nghiệp.\nTrường hợp người lao động đã được giải quyết hưởng trợ cấp thất nghiệp, sau khi chấm dứt hưởng trợ cấp thất nghiệp mới được cơ quan bảo hiểm xã hội xác nhận bổ sung thời gian đóng bảo hiểm thất nghiệp thì thời gian này được xác định là thời gian đóng nhưng chưa hưởng trợ cấp thất nghiệp theo quy định tại khoản 1 Điều 45 Luật Việc làm.",
+    "references": ["rule/19"]
+  },
+  {
+    "id": "rule/18",
+    "lookUpId": "lookUp/06",
+    "keyphrase": "",
+    "content": "Người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp được hưởng trợ cấp thất nghiệp khi có đủ các điều kiện sau đây:\n1. Chấm dứt hợp đồng lao động hoặc hợp đồng làm việc, trừ các trường hợp sau đây:\na) Người lao động đơn phương chấm dứt hợp đồng lao động, hợp đồng làm việc trái pháp luật;\nb) Hưởng lương hưu, trợ cấp mất sức lao động hằng tháng;\n2. Đã đóng bảo hiểm thất nghiệp từ đủ 12 tháng trở lên trong thời gian 24 tháng trước khi chấm dứt hợp đồng lao động hoặc hợp đồng làm việc đối với trường hợp quy định tại điểm a và điểm b khoản 1 Điều 43 của Luật này; đã đóng bảo hiểm thất nghiệp từ đủ 12 tháng trở lên trong thời gian 36 tháng trước khi chấm dứt hợp đồng lao động đối với trường hợp quy định tại điểm c khoản 1 Điều 43 của Luật này;\n3. Đã nộp hồ sơ hưởng trợ cấp thất nghiệp tại trung tâm dịch vụ việc làm theo quy định tại khoản 1 Điều 46 của Luật này;\n4. Chưa tìm được việc làm sau 15 ngày, kể từ ngày nộp hồ sơ hưởng bảo hiểm thất nghiệp, trừ các trường hợp sau đây:\na) Thực hiện nghĩa vụ quân sự, nghĩa vụ công an;\nb) Đi học tập có thời hạn từ đủ 12 tháng trở lên;\nc) Chấp hành quyết định áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc;\nd) Bị tạm giam; chấp hành hình phạt tù;\nđ) Ra nước ngoài định cư; đi lao động ở nước ngoài theo hợp đồng;\ne) Chết.",
+    "references": ["rule/10"]
+  },
+  {
+    "id": "rule/19",
+    "lookUpId": "lookUp/07",
+    "keyphrase": "",
+    "content": "1. Thời gian đóng bảo hiểm thất nghiệp để xét hưởng bảo hiểm thất nghiệp là tổng các khoảng thời gian đã đóng bảo hiểm thất nghiệp liên tục hoặc không liên tục được cộng dồn từ khi bắt đầu đóng bảo hiểm thất nghiệp cho đến khi người lao động chấm dứt hợp đồng lao động hoặc hợp đồng làm việc theo quy định của pháp luật mà chưa hưởng trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/20",
+    "lookUpId": "lookUp/07",
+    "keyphrase": "",
+    "content": "2. Sau khi chấm dứt hưởng trợ cấp thất nghiệp, thời gian đóng bảo hiểm thất nghiệp trước đó của người lao động không được tính để hưởng trợ cấp thất nghiệp cho lần tiếp theo. Thời gian đóng bảo hiểm thất nghiệp cho lần hưởng bảo hiểm thất nghiệp tiếp theo được tính lại từ đầu, trừ trường hợp chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại các điểm b, c, h, l, m và n khoản 3 Điều 53 của Luật này.",
+    "references": ["rule/24"]
+  },
+  {
+    "id": "rule/21",
+    "lookUpId": "lookUp/07",
+    "keyphrase": "",
+    "content": "3. Thời gian người lao động đóng bảo hiểm thất nghiệp không được tính để hưởng trợ cấp mất việc làm hoặc trợ cấp thôi việc theo quy định của pháp luật về lao động, pháp luật về viên chức.",
+    "references": []
+  },
+  {
+    "id": "rule/22",
+    "lookUpId": "lookUp/08",
+    "keyphrase": "tạm dừng hưởng trợ cấp thất nghiệp",
+    "content": "1. Người đang hưởng trợ cấp thất nghiệp bị tạm dừng hưởng trợ cấp thất nghiệp khi không thông báo về việc tìm kiếm việc làm hằng tháng theo quy định tại Điều 52 của Luật này.",
+    "references": ["lookUp/09"]
+  },
+  {
+    "id": "rule/23",
+    "lookUpId": "lookUp/08",
+    "keyphrase": "tiếp tục hưởng trợ cấp thất nghiệp",
+    "content": "2. Người lao động bị tạm dừng hưởng trợ cấp thất nghiệp nếu vẫn còn thời gian được hưởng theo quyết định thì tiếp tục hưởng trợ cấp thất nghiệp khi thực hiện thông báo về việc tìm kiếm việc làm hằng tháng theo quy định tại Điều 52 của Luật này.",
+    "references": ["lookUp/09"]
+  },
+  {
+    "id": "rule/24",
+    "lookUpId": "lookUp/08",
+    "keyphrase": "chấm dứt hưởng trợ cấp thất nghiệp",
+    "content": "3. Người đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp trong các trường hợp sau đây:\na) Hết thời hạn hưởng trợ cấp thất nghiệp;\nb) Tìm được việc làm;\nc) Thực hiện nghĩa vụ quân sự, nghĩa vụ công an;\nd) Hưởng lương hưu hằng tháng;\nđ) Sau 02 lần từ chối nhận việc làm do trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp giới thiệu mà không có lý do chính đáng;\ne) Không thực hiện thông báo tìm kiếm việc làm hằng tháng theo quy định tại Điều 52 của Luật này trong 03 tháng liên tục;\ng) Ra nước ngoài để định cư, đi lao động ở nước ngoài theo hợp đồng;\nh) Đi học tập có thời hạn từ đủ 12 tháng trở lên;\ni) Bị xử phạt vi phạm hành chính về hành vi vi phạm pháp luật bảo hiểm thất nghiệp;\nk) Chết;\nl) Chấp hành quyết định áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc;\nm) Bị tòa án tuyên bố mất tích;\nn) Bị tạm giam; chấp hành hình phạt tù.",
+    "references": ["lookUp/09"]
+  },
+  {
+    "id": "rule/25",
+    "lookUpId": "lookUp/08",
+    "keyphrase": "bảo lưu thời gian đóng trợ cấp thất nghiệp",
+    "content": "4. Người lao động bị chấm dứt hưởng trợ cấp thất nghiệp thuộc các trường hợp quy định tại các điểm b, c, h, l, m và n khoản 3 Điều này được bảo lưu thời gian đóng bảo hiểm thất nghiệp làm căn cứ để tính thời gian hưởng trợ cấp thất nghiệp cho lần tiếp theo khi đủ điều kiện quy định tại Điều 49 của Luật này.\nThời gian bảo lưu được tính bằng tổng thời gian đóng bảo hiểm thất nghiệp trừ đi thời gian đóng đã hưởng trợ cấp thất nghiệp, theo nguyên tắc mỗi tháng đã hưởng trợ cấp thất nghiệp tương ứng 12 tháng đã đóng bảo hiểm thất nghiệp.",
+    "references": ["rule/24", "lookUp/06"]
+  },
+  {
+    "id": "rule/26",
+    "lookUpId": "lookUp/09",
+    "keyphrase": "đối tượng người lao động phải thông báo việc tìm kiếm việc làm khi đang hưởng trợ cấp thất nghiệp",
+    "content": "1. Trong thời gian hưởng trợ cấp thất nghiệp, hằng tháng người lao động phải trực tiếp thông báo với trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp về việc tìm kiếm việc làm, trừ các trường hợp sau đây:\na) Người lao động ốm đau, thai sản, tai nạn có giấy xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của pháp luật về khám bệnh, chữa bệnh;\nb) Trường hợp bất khả kháng.",
+    "references": []
+  },
+  {
+    "id": "rule/27",
+    "lookUpId": "lookUp/09",
+    "keyphrase": "",
+    "content": "2. Đối với trường hợp quy định tại điểm a và điểm b khoản 1 Điều này thì người lao động có trách nhiệm thông báo cho trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp.",
+    "references": ["rule/26"]
+  },
+  {
+    "id": "rule/28",
+    "lookUpId": "lookUp/09",
+    "keyphrase": "",
+    "content": "3. Bộ Lao động - Thương binh và Xã hội hướng dẫn thực hiện Điều này.",
+    "references": []
+  },
+  {
+    "id": "rule/29",
+    "lookUpId": "lookUp/10",
+    "keyphrase": "",
+    "content": "1. Người sử dụng lao động phải lập và nộp hồ sơ tham gia bảo hiểm thất nghiệp của người lao động cho tổ chức bảo hiểm xã hội trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hoặc hợp đồng làm việc của người lao động thuộc đối tượng bắt buộc tham gia bảo hiểm thất nghiệp có hiệu lực.",
+    "references": []
+  },
+  {
+    "id": "rule/30",
+    "lookUpId": "lookUp/10",
+    "keyphrase": "",
+    "content": "2. Trường hợp người lao động giao kết nhiều hợp đồng lao động đều thuộc đối tượng bắt buộc tham gia bảo hiểm thất nghiệp và đang tham gia bảo hiểm thất nghiệp theo hợp đồng lao động có hiệu lực đầu tiên thì khi chấm dứt hoặc thay đổi hợp đồng lao động đang tham gia bảo hiểm thất nghiệp dẫn đến người lao động không thuộc đối tượng bắt buộc tham gia bảo hiểm thất nghiệp thì người sử dụng lao động thuộc đối tượng tham gia bảo hiểm thất nghiệp của hợp đồng lao động kế tiếp theo quy định của pháp luật lao động phải lập và nộp hồ sơ tham gia bảo hiểm thất nghiệp của người lao động cho tổ chức bảo hiểm xã hội trong thời hạn 30 ngày kể từ ngày người lao động chấm dứt hoặc thay đổi hợp đồng lao động nêu trên. Hồ sơ tham gia bảo hiểm thất nghiệp của người lao động trong trường hợp nêu trên nộp cùng với hồ sơ tham gia bảo hiểm xã hội bắt buộc của người lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/31",
+    "lookUpId": "lookUp/10",
+    "keyphrase": "",
+    "content": "3. Trường hợp trước ngày 01/01/2015 người sử dụng lao động đã giao kết hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn từ đủ 03 tháng đến dưới 12 tháng với người lao động và đang thực hiện hợp đồng lao động này, tính đến ngày 01/01/2015 thời hạn hợp đồng lao động nêu trên còn ít nhất 03 tháng trở lên thì người sử dụng lao động phải tham gia bảo hiểm thất nghiệp cho người lao động kể từ ngày 01/01/2015 trở đi.",
+    "references": []
+  },
+  {
+    "id": "rule/32",
+    "lookUpId": "lookUp/11",
+    "keyphrase": "mức đóng bảo hiểm thất nghiệp",
+    "content": "1. Người lao động đóng bảo hiểm thất nghiệp theo chế độ tiền lương do người sử dụng lao động quyết định mà mức tiền lương tháng của người lao động cao hơn hai mươi tháng lương tối thiểu vùng thì người sử dụng lao động và người lao động phải đóng bảo hiểm thất nghiệp theo mức tiền lương bằng hai mươi tháng lương tối thiểu vùng từ ngày 01/01/2015 trở đi.",
+    "references": []
+  },
+  {
+    "id": "rule/33",
+    "lookUpId": "lookUp/11",
+    "keyphrase": "thủ tục đóng bảo hiểm thất nghiệp",
+    "content": "2. Trình tự, thủ tục đóng bảo hiểm thất nghiệp thực hiện theo hướng dẫn của Bảo hiểm xã hội Việt Nam.",
+    "references": []
+  },
+  {
+    "id": "rule/34",
+    "lookUpId": "lookUp/12",
+    "keyphrase": "",
+    "content": "1. Hồ sơ theo dõi việc đóng, hưởng bảo hiểm thất nghiệp của người lao động theo quy định tại Nghị định này là sổ bảo hiểm xã hội.",
+    "references": []
+  },
+  {
+    "id": "rule/35",
+    "lookUpId": "lookUp/12",
+    "keyphrase": "",
+    "content": "2. Bảo hiểm xã hội Việt Nam ban hành mẫu sổ bảo hiểm xã hội.",
+    "references": []
+  },
+  {
+    "id": "rule/36",
+    "lookUpId": "lookUp/13",
+    "keyphrase": "",
+    "content": "1. Trong thời hạn 03 tháng, kể từ ngày chấm dứt hợp đồng lao động hoặc hợp đồng làm việc, người lao động nộp hồ sơ hưởng trợ cấp thất nghiệp tại trung tâm dịch vụ việc làm do cơ quan quản lý nhà nước về việc làm thành lập.",
+    "references": []
+  },
+  {
+    "id": "rule/37",
+    "lookUpId": "lookUp/13",
+    "keyphrase": "",
+    "content": "2. Trong thời hạn 20 ngày, kể từ ngày trung tâm dịch vụ việc làm tiếp nhận đủ hồ sơ, cơ quan nhà nước có thẩm quyền ra quyết định hưởng trợ cấp thất nghiệp; trường hợp không đủ điều kiện để hưởng chế độ trợ cấp thất nghiệp thì phải trả lời bằng văn bản cho người lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/38",
+    "lookUpId": "lookUp/13",
+    "keyphrase": "",
+    "content": "3. Tổ chức bảo hiểm xã hội thực hiện việc chi trả trợ cấp thất nghiệp cho người lao động trong thời hạn 05 ngày, kể từ ngày nhận được quyết định hưởng trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/39",
+    "lookUpId": "lookUp/14",
+    "keyphrase": "điều kiện hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "content": "1. Người sử dụng lao động được hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp khi có đủ các điều kiện sau đây:\na) Đóng đủ bảo hiểm thất nghiệp cho người lao động thuộc đối tượng tham gia bảo hiểm thất nghiệp liên tục từ đủ 12 tháng trở lên tính đến thời điểm đề nghị hỗ trợ;\nb) Gặp khó khăn do suy giảm kinh tế hoặc vì lý do bất khả kháng khác buộc phải thay đổi cơ cấu hoặc công nghệ sản xuất, kinh doanh;\nc) Không đủ kinh phí để tổ chức đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề cho người lao động;\nd) Có phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và duy trì việc làm được cơ quan nhà nước có thẩm quyền phê duyệt.",
+    "references": ["rule/10"]
+  },
+  {
+    "id": "rule/40",
+    "lookUpId": "lookUp/14",
+    "keyphrase": "thời gian hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "content": "2. Thời gian hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo phương án được phê duyệt và không quá 06 tháng.",
+    "references": []
+  },
+  {
+    "id": "rule/41",
+    "lookUpId": "lookUp/14",
+    "keyphrase": "mức hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "content": "3. Chính phủ quy định chi tiết Điều này và mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động, bảo đảm cân đối quỹ bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/42",
+    "lookUpId": "lookUp/15",
+    "keyphrase": "trách nhiệm người sử dụng lao động đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "content": "1. Người sử dụng lao động có trách nhiệm tổ chức đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và sử dụng lao động theo phương án đã được phê duyệt; sử dụng nguồn kinh phí đúng đối tượng, đúng mục đích và thực hiện báo cáo kết quả tổ chức đào tạo cho cơ quan nhà nước có thẩm quyền sau khi kết thúc khóa đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề.",
+    "references": []
+  },
+  {
+    "id": "rule/43",
+    "lookUpId": "lookUp/15",
+    "keyphrase": "trách nhiệm người lao động đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "content": "2. Người lao động có trách nhiệm thực hiện quy định của pháp luật về đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề.",
+    "references": []
+  },
+  {
+    "id": "rule/44",
+    "lookUpId": "lookUp/16",
+    "keyphrase": "",
+    "content": "Người sử dụng lao động được hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động quy định tại Khoản 1 Điều 47 Luật Việc làm khi có đủ các điều kiện sau:\n1. Đóng đủ bảo hiểm thất nghiệp theo quy định tại Khoản 2 Điều 44 Luật Việc làm liên tục từ đủ 12 tháng trở lên tính đến tháng liền trước của tháng đề nghị hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động hoặc đến tháng của ngày đề nghị hỗ trợ kinh phí để đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động nếu người sử dụng lao động đã đóng bảo hiểm thất nghiệp của tháng đó.\n2. Gặp khó khăn thuộc các trường hợp theo quy định tại điểm b khoản 1 Điều 47 Luật Việc làm dẫn đến nguy cơ phải cắt giảm số lao động hiện có từ 30% hoặc từ 30 lao động trở lên đối với người sử dụng lao động có sử dụng dưới 200 lao động; từ 50 lao động trở lên đối với người sử dụng lao động có sử dụng từ 200 đến 1000 lao động; từ 100 lao động trở lên đối với người sử dụng lao động có sử dụng trên 1000 lao động, không kể lao động giao kết hợp đồng lao động theo mùa vụ hoặc một công việc nhất định có thời hạn dưới 01 tháng.\nNhững trường hợp được coi là bất khả kháng theo quy định tại điểm b khoản 1 Điều 47 Luật Việc làm, bao gồm:\n- Hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, dịch bệnh làm thiệt hại một phần hoặc toàn bộ cơ sở vật chất, thiết bị, máy móc, nhà xưởng có xác nhận của Chủ tịch Ủy ban nhân dân quận, huyện, thị xã, thành phố trực thuộc tỉnh nơi người sử dụng lao động bị thiệt hại;\n- Thực hiện yêu cầu của cơ quan nhà nước có thẩm quyền về việc di dời hoặc thu hẹp địa điểm sản xuất kinh doanh.\n3. Không đủ kinh phí để tổ chức đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề cho người lao động được xác định thông qua báo cáo sản xuất, kinh doanh của năm trước thời điểm đề nghị hỗ trợ mà bị lỗ có xác nhận của cơ quan thuế.\n4. Có phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và duy trì việc làm được cơ quan nhà nước có thẩm quyền phê duyệt.",
+    "references": ["rule/39", "rule/46"]
+  },
+  {
+    "id": "rule/45",
+    "lookUpId": "lookUp/17",
+    "keyphrase": "",
+    "content": "1. Người sử dụng lao động phải tham gia bảo hiểm thất nghiệp cho người lao động tại tổ chức bảo hiểm xã hội trong thời hạn 30 ngày, kể từ ngày hợp đồng lao động hoặc hợp đồng làm việc có hiệu lực.",
+    "references": []
+  },
+  {
+    "id": "rule/46",
+    "lookUpId": "lookUp/17",
+    "keyphrase": "",
+    "content": "2. Hằng tháng, người sử dụng lao động đóng bảo hiểm thất nghiệp theo mức quy định tại điểm b khoản 1 Điều 57 của Luật này và trích tiền lương của từng người lao động theo mức quy định tại điểm a khoản 1 Điều 57 của Luật này để đóng cùng một lúc vào Quỹ bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/47",
+    "lookUpId": "lookUp/17",
+    "keyphrase": "",
+    "content": "3. Căn cứ vào tình hình kết dư của Quỹ bảo hiểm thất nghiệp, Nhà nước chuyển kinh phí hỗ trợ từ ngân sách nhà nước vào Quỹ theo mức do Chính phủ quy định tại khoản 3 Điều 59 của Luật này.",
+    "references": []
+  },
+  {
+    "id": "rule/48",
+    "lookUpId": "lookUp/18",
+    "keyphrase": "",
+    "content": "1. Mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề tối đa 01 triệu đồng/người/tháng. Mức hỗ trợ cụ thể được tính theo tháng, thời gian học thực tế của từng nghề hoặc từng khóa học nhưng không quá 06 tháng.\nTrường hợp khóa học nghề có những ngày lẻ không đủ tháng thì được tính theo nguyên tắc: Dưới 15 ngày tính là 1/2 tháng, từ đủ 15 ngày trở lên tính là 01 tháng để xác định mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/49",
+    "lookUpId": "lookUp/18",
+    "keyphrase": "",
+    "content": "2. Đối với khóa đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề có mức chi phí cao hơn mức hỗ trợ theo quy định tại Khoản 1 Điều này thì phần vượt quá mức hỗ trợ do người sử dụng lao động tự chi trả.",
+    "references": ["rule/48"]
+  },
+  {
+    "id": "rule/50",
+    "lookUpId": "lookUp/19",
+    "keyphrase": "",
+    "content": "Văn bản đề nghị hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động phải bao gồm các nội dung cơ bản sau:\n1. Thông tin chung về đơn vị: Tên; địa chỉ; ngày thành lập; ngành, nghề hoặc lĩnh vực sản xuất kinh doanh, người đại diện.\n2. Tình hình sản xuất, kinh doanh của đơn vị.\n3. Tổng số lao động của đơn vị, số lao động có nguy cơ bị cắt giảm tại thời điểm đề nghị hỗ trợ (không bao gồm người lao động có giao kết hợp đồng lao động có thời hạn dưới 3 tháng), số lao động đề nghị được hỗ trợ.\n4. Nguyên nhân buộc phải thay đổi cơ cấu hoặc công nghệ sản xuất, kinh doanh.\n5. Tổng kinh phí để tổ chức đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề cho người lao động (có dự toán chi tiết kèm theo bao gồm các chi phí để thực hiện phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động).\n6. Cam kết tổ chức đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và sử dụng lao động theo đúng phương án đã được phê duyệt.",
+    "references": []
+  },
+  {
+    "id": "rule/51",
+    "lookUpId": "lookUp/20",
+    "keyphrase": "",
+    "content": "Phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và duy trì việc làm bao gồm các nội dung cơ bản sau:\n1. Thông tin chung về đơn vị: Tên; địa chỉ trụ sở; ngày thành lập; ngành, nghề hoặc lĩnh vực sản xuất kinh doanh, người đại diện.\n2. Danh sách lao động đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm tại đơn vị và nêu rõ ngành, nghề đào tạo; thời gian đào tạo; địa điểm đào tạo của từng người lao động.\n3. Cơ sở đào tạo (ghi rõ cơ sở đào tạo thuộc đơn vị hay liên kết đào tạo, nếu liên kết đào tạo đề nghị kèm theo hợp đồng liên kết đào tạo, cơ sở đào tạo phải có đăng ký hoạt động dạy nghề theo quy định của pháp luật về dạy nghề).\n4. Hình thức tổ chức đào tạo và dự kiến thời gian khai giảng và bế giảng của khóa học.\n5. Phương án duy trì việc làm cho người lao động sau khi đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề bao gồm các nội dung sau:\na) Số lao động được tiếp tục làm việc hoặc thay đổi vị trí việc làm phù hợp với phương án chuyển đổi công nghệ sản xuất kinh doanh;\nb) Cam kết của người sử dụng lao động về việc sử dụng lao động theo đúng phương án. Nếu người lao động không được bố trí việc làm thì người sử dụng lao động sẽ phải hoàn trả toàn bộ kinh phí hỗ trợ bồi dưỡng, nâng cao trình độ kỹ năng nghề.\n6. Dự toán chi tiết kinh phí thực hiện.",
+    "references": []
+  },
+  {
+    "id": "rule/52",
+    "lookUpId": "lookUp/21",
+    "keyphrase": "",
+    "content": "1. Đối với trường hợp khóa đào tạo được thực hiện tại cơ sở dạy nghề thì mức hỗ trợ kinh phí cụ thể để đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm của người lao động được tính theo tháng, thời gian học thực tế, mức thu học phí của từng nghề hoặc từng khóa đào tạo nghề theo quy định của cơ sở dạy nghề nhưng không quá mức hỗ trợ quy định tại Khoản 1 Điều 4 Nghị định 28/2015/NĐ-CP.\n2. Đối với trường hợp khóa đào tạo do người sử dụng lao động thực hiện thì mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cụ thể của người lao động được tính theo tháng, thời gian học thực tế của từng nghề hoặc từng khóa đào tạo nhưng không quá mức hỗ trợ quy định tại Khoản 1 Điều 4 Nghị định 28/2015/NĐ-CP.\n3. Đối với trường hợp khóa học nghề có những ngày lẻ không đủ tháng thì mức hỗ trợ được tính theo nguyên tắc: Dưới 15 ngày tính là ½ tháng, từ đủ 15 ngày trở lên thì tính là 01 tháng để xác định mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động.\nVí dụ 18: Doanh nghiệp N được hỗ trợ kinh phí để đào tạo lắp ráp thiết bị điện tử cho 100 người lao động. Khóa đào tạo bắt đầu từ ngày 05/3/2015 đến ngày 15/5/2015 với mức hỗ trợ là 600.000 đồng/tháng/người (trong đó: Tháng thứ nhất được tính từ ngày 05/3/2015 đến ngày 04/4/2015; tháng thứ hai được tính từ ngày 05/4/2015 đến ngày 04/5/2015). Do đó, khóa đào tạo này có số ngày lẻ được tính từ ngày 05/5/2015 đến ngày 15/5/2015. Số ngày lẻ này dưới 15 ngày nên được tính là ½ tháng. Như vậy, thời gian doanh nghiệp N được hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề là 2,5 tháng với tổng số kinh phí được hỗ trợ là: 600.000 đồng x 100 người x 2,5 tháng = 150.000.000 đồng.",
+    "references": ["rule/48"]
+  },
+  {
+    "id": "rule/53",
+    "lookUpId": "lookUp/22",
+    "keyphrase": "",
+    "content": "1. Đề nghị hưởng trợ cấp thất nghiệp theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.",
+    "references": []
+  },
+  {
+    "id": "rule/54",
+    "lookUpId": "lookUp/22",
+    "keyphrase": "",
+    "content": "2. Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu của một trong các giấy tờ sau đây xác nhận về việc chấm dứt hợp đồng lao động hoặc hợp đồng làm việc:\na) Hợp đồng lao động hoặc hợp đồng làm việc đã hết hạn hoặc đã hoàn thành công việc theo hợp đồng lao động;\nb) Quyết định thôi việc;\nc) Quyết định sa thải;\nd) Quyết định kỷ luật buộc thôi việc;\nđ) Thông báo hoặc thỏa thuận chấm dứt hợp đồng lao động hoặc hợp đồng làm việc;\ne) Xác nhận của người sử dụng lao động trong đó có nội dung cụ thể về thông tin của người lao động; loại hợp đồng lao động đã ký; lý do, thời điểm chấm dứt hợp đồng lao động đối với người lao động;\ng) Xác nhận của cơ quan nhà nước có thẩm quyền về việc doanh nghiệp hoặc hợp tác xã giải thể, phá sản hoặc quyết định bãi nhiệm, miễn nhiệm, cách chức đối với các chức danh được bổ nhiệm trong trường hợp người lao động là người quản lý doanh nghiệp, quản lý hợp tác xã;\nh) Trường hợp người lao động không có các giấy tờ xác nhận về việc chấm dứt hợp đồng lao động do đơn vị sử dụng lao động không có người đại diện theo pháp luật và người được người đại diện theo pháp luật ủy quyền thì thực hiện theo quy trình sau:\nSở Lao động - Thương binh và Xã hội hoặc Bảo hiểm xã hội cấp tỉnh gửi văn bản yêu cầu Sở Kế hoạch và Đầu tư xác nhận đơn vị sử dụng lao động không có người đại diện theo pháp luật hoặc không có người được người đại diện theo pháp luật ủy quyền.\nSở Kế hoạch và Đầu tư có trách nhiệm phối hợp với cơ quan thuế, cơ quan công an, chính quyền địa phương nơi đơn vị sử dụng lao động đặt trụ sở chính thực hiện xác minh nội dung đơn vị sử dụng lao động không có người đại diện theo pháp luật hoặc không có người được người đại diện theo pháp luật ủy quyền.\nSở Kế hoạch và Đầu tư gửi văn bản trả lời cho Sở Lao động - Thương binh và Xã hội và Bảo hiểm xã hội cấp tỉnh về nội dung đơn vị sử dụng lao động không có người đại diện theo pháp luật hoặc không có người được người đại diện theo pháp luật ủy quyền trong thời hạn 10 ngày làm việc kể từ ngày nhận được văn bản yêu cầu xác nhận của Sở Lao động - Thương binh và Xã hội hoặc Bảo hiểm xã hội cấp tỉnh.\ni) Trường hợp người lao động tham gia bảo hiểm thất nghiệp theo quy định tại điểm c khoản 1 Điều 43 Luật Việc làm thì giấy tờ xác nhận về việc chấm dứt hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn từ đủ 03 tháng đến dưới 12 tháng là bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu của hợp đồng đó.",
+    "references": ["rule/10"]
+  },
+  {
+    "id": "rule/55",
+    "lookUpId": "lookUp/22",
+    "keyphrase": "",
+    "content": "3. Sổ bảo hiểm xã hội.\nTổ chức bảo hiểm xã hội thực hiện xác nhận về việc đóng bảo hiểm thất nghiệp và trả sổ bảo hiểm xã hội cho người lao động trong thời hạn 05 ngày làm việc kể từ ngày nhận được đề nghị của người sử dụng lao động.\nĐối với người sử dụng lao động là các cơ quan, đơn vị, doanh nghiệp thuộc Bộ Quốc phòng, Bộ Công an thì trong thời hạn 30 ngày, Bảo hiểm xã hội Bộ Quốc phòng, Bảo hiểm xã hội Công an nhân dân thực hiện xác nhận về việc đóng bảo hiểm thất nghiệp và trả sổ bảo hiểm xã hội cho người lao động kể từ ngày nhận được đề nghị của người sử dụng lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/56",
+    "lookUpId": "lookUp/23",
+    "keyphrase": "",
+    "content": "1. Trong thời hạn 03 tháng kể từ ngày chấm dứt hợp đồng lao động hoặc hợp đồng làm việc, người lao động chưa có việc làm và có nhu cầu hưởng trợ cấp thất nghiệp phải trực tiếp nộp 01 bộ hồ sơ đề nghị hưởng trợ cấp thất nghiệp theo đúng quy định tại Điều 16 của Nghị định này cho trung tâm dịch vụ việc làm tại địa phương nơi người lao động muốn nhận trợ cấp thất nghiệp.",
+    "references": ["lookUp/22"]
+  },
+  {
+    "id": "rule/57",
+    "lookUpId": "lookUp/23",
+    "keyphrase": "ủy quyền người khác nộp hồ sơ theo đường bưu điện",
+    "content": "2. Người lao động được ủy quyền cho người khác nộp hồ sơ hoặc gửi hồ sơ theo đường bưu điện nếu thuộc một trong các trường hợp sau:\na) Ốm đau, thai sản có xác nhận của cơ sở y tế có thẩm quyền;\nb) Bị tai nạn có xác nhận của cảnh sát giao thông hoặc cơ sở y tế có thẩm quyền;\nc) Hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, dịch bệnh có xác nhận của Chủ tịch Ủy ban nhân dân xã, phường, thị trấn.\nNgày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp trong các trường hợp nêu trên là ngày người được ủy quyền trực tiếp nộp hồ sơ hoặc ngày ghi trên dấu bưu điện đối với trường hợp gửi theo đường bưu điện.",
+    "references": []
+  },
+  {
+    "id": "rule/58",
+    "lookUpId": "lookUp/23",
+    "keyphrase": "",
+    "content": "3. Trung tâm dịch vụ việc làm có trách nhiệm tiếp nhận, kiểm tra hồ sơ, ghi phiếu hẹn trả kết quả theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định và trao phiếu trực tiếp cho người nộp hồ sơ hoặc gửi qua đường bưu điện đối với người nộp hồ sơ qua đường bưu điện; trường hợp hồ sơ không đúng theo quy định tại Điều 16 Nghị định này thì trả lại người nộp và nêu rõ lý do.",
+    "references": ["lookUp/22"]
+  },
+  {
+    "id": "rule/59",
+    "lookUpId": "lookUp/23",
+    "keyphrase": "người lao động không có nhu cầu hưởng trợ cấp thất nghiệp",
+    "content": "4. Trong thời hạn 15 ngày làm việc kể từ ngày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp nếu người lao động không có nhu cầu hưởng trợ cấp thất nghiệp thì người lao động phải trực tiếp hoặc ủy quyền cho người khác nộp đề nghị không hưởng trợ cấp thất nghiệp cho trung tâm dịch vụ việc làm nơi người lao động đã nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/60",
+    "lookUpId": "lookUp/24",
+    "keyphrase": "",
+    "content": "Trong thời hạn 15 ngày tính theo ngày làm việc kể từ ngày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp nếu người lao động không có nhu cầu hưởng trợ cấp thất nghiệp thì người lao động phải trực tiếp nộp đề nghị không hưởng trợ cấp thất nghiệp theo Mẫu số 08 ban hành kèm theo Thông tư này cho trung tâm dịch vụ việc làm nơi người lao động đã nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp.\nTrung tâm dịch vụ việc làm có trách nhiệm gửi lại hồ sơ đề nghị hưởng trợ cấp thất nghiệp cho người lao động vào ngày trả kết quả theo phiếu hẹn trả kết quả.",
+    "references": []
+  },
+  {
+    "id": "rule/61",
+    "lookUpId": "lookUp/25",
+    "keyphrase": "mức hưởng trợ cấp thất nghiệp",
+    "content": "1. Mức hưởng trợ cấp thất nghiệp hằng tháng bằng 60% mức bình quân tiền lương tháng đóng bảo hiểm thất nghiệp của 06 tháng liền kề trước khi thất nghiệp nhưng tối đa không quá 05 lần mức lương cơ sở đối với người lao động thuộc đối tượng thực hiện chế độ tiền lương do Nhà nước quy định hoặc không quá 05 lần mức lương tối thiểu vùng theo quy định của Bộ luật lao động đối với người lao động đóng bảo hiểm thất nghiệp theo chế độ tiền lương do người sử dụng lao động quyết định tại thời điểm chấm dứt hợp đồng lao động hoặc hợp đồng làm việc.",
+    "references": []
+  },
+  {
+    "id": "rule/62",
+    "lookUpId": "lookUp/25",
+    "keyphrase": "thời gian hưởng trợ cấp thất nghiệp",
+    "content": "2. Thời gian hưởng trợ cấp thất nghiệp được tính theo số tháng đóng bảo hiểm thất nghiệp, cứ đóng đủ 12 tháng đến đủ 36 tháng thì được hưởng 03 tháng trợ cấp thất nghiệp, sau đó, cứ đóng đủ thêm 12 tháng thì được hưởng thêm 01 tháng trợ cấp thất nghiệp nhưng tối đa không quá 12 tháng.",
+    "references": []
+  },
+  {
+    "id": "rule/63",
+    "lookUpId": "lookUp/25",
+    "keyphrase": "thời điểm hưởng trợ cấp thất nghiệp",
+    "content": "3. Thời điểm hưởng trợ cấp thất nghiệp được tính từ ngày thứ 16, kể từ ngày nộp đủ hồ sơ hưởng trợ cấp thất nghiệp theo quy định tại khoản 1 Điều 46 của Luật này.",
+    "references": ["rule/36"]
+  },
+  {
+    "id": "rule/64",
+    "lookUpId": "lookUp/26",
+    "keyphrase": "",
+    "content": "1. Trung tâm dịch vụ việc làm có trách nhiệm xem xét, trình Giám đốc Sở Lao động - Thương binh và Xã hội quyết định về việc hưởng trợ cấp thất nghiệp của người lao động trong thời hạn 20 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định, trường hợp hồ sơ đề nghị hưởng trợ cấp thất nghiệp gửi theo đường bưu điện thì ngày nhận hồ sơ được tính là ngày chuyển đến ghi trên dấu bưu điện.\nNgười lao động chưa tìm được việc làm trong thời hạn 15 ngày làm việc kể từ ngày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp được Giám đốc Sở Lao động - Thương binh và Xã hội quyết định hưởng trợ cấp thất nghiệp thì trung tâm dịch vụ việc làm xác nhận về việc đã giải quyết hưởng trợ cấp thất nghiệp của người lao động vào sổ bảo hiểm xã hội và gửi lại người lao động cùng với quyết định hưởng trợ cấp thất nghiệp sau khi chụp sổ bảo hiểm xã hội để lưu hồ sơ.\nThời điểm hưởng trợ cấp thất nghiệp của người lao động được tính từ ngày thứ 16 theo ngày làm việc kể từ ngày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp.\nQuyết định về việc hưởng trợ cấp thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến Bảo hiểm xã hội tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là Bảo hiểm xã hội cấp tỉnh) để thực hiện chi trả trợ cấp thất nghiệp và cấp thẻ bảo hiểm y tế cho người lao động; 01 bản đến người lao động được hưởng trợ cấp thất nghiệp. Quyết định về việc hưởng trợ cấp thất nghiệp thực hiện theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.\nTrường hợp người lao động không được hưởng trợ cấp thất nghiệp thì trung tâm dịch vụ việc làm phải thông báo bằng văn bản và nêu rõ lý do.",
+    "references": []
+  },
+  {
+    "id": "rule/65",
+    "lookUpId": "lookUp/26",
+    "keyphrase": "chi trả trợ cấp thất nghiệp",
+    "content": "2. Chi trả trợ cấp thất nghiệp\na) Tổ chức bảo hiểm xã hội thực hiện chi trả trợ cấp thất nghiệp tháng đầu tiên của người lao động trong thời hạn 05 ngày làm việc kể từ ngày nhận được quyết định hưởng trợ cấp thất nghiệp;\nb) Tổ chức bảo hiểm xã hội thực hiện chi trả trợ cấp thất nghiệp cho người lao động từ tháng hưởng trợ cấp thất nghiệp thứ 2 trở đi trong thời hạn 05 ngày làm việc, tính từ thời điểm ngày thứ 07 của tháng hưởng trợ cấp thất nghiệp đó nếu không nhận được quyết định tạm dừng hoặc chấm dứt hưởng trợ cấp thất nghiệp đối với người lao động. Trường hợp thời điểm ngày thứ 07 nêu trên là ngày nghỉ thì thời hạn chi trả trợ cấp thất nghiệp được tính từ ngày làm việc tiếp theo.",
+    "references": []
+  },
+  {
+    "id": "rule/66",
+    "lookUpId": "lookUp/26",
+    "keyphrase": "người lao động không đến nhận hoặc không ủy quyền đến nhận quyết định hưởng trợ cấp thất nghiệp",
+    "content": "3. Trong 03 ngày làm việc được ghi trên phiếu hẹn trả kết quả theo Mẫu số 01 ban hành kèm theo Nghị định này, nếu người lao động không đến nhận quyết định về việc hưởng trợ cấp thất nghiệp hoặc không ủy quyền cho người khác đến nhận quyết định và không thông báo cho trung tâm dịch vụ việc làm về lý do không thể đến nhận thì được coi là không có nhu cầu hưởng trợ cấp thất nghiệp. Trong thời hạn 02 ngày làm việc kể từ ngày người lao động hết hạn nhận quyết định theo phiếu hẹn trả kết quả, trung tâm dịch vụ việc làm trình Giám đốc Sở Lao động - Thương binh và Xã hội ban hành quyết định về việc hủy quyết định hưởng trợ cấp thất nghiệp của người lao động theo Mẫu số 02 ban hành kèm theo Nghị định này.\nQuyết định về việc hủy quyết định hưởng trợ cấp thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến cơ quan bảo hiểm xã hội cấp tỉnh để không chi trả trợ cấp thất nghiệp cho người lao động; 01 bản đến người lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/68",
+    "lookUpId": "lookUp/26",
+    "keyphrase": "thời gian đóng bảo hiểm thất nghiệp của người lao động bị hủy quyết định hưởng trợ cấp thất nghiệp",
+    "content": "5. Thời gian đóng bảo hiểm thất nghiệp của người lao động trong trường hợp hủy quyết định hưởng trợ cấp thất nghiệp nêu tại Khoản 3 Điều này được cộng dồn theo quy định tại Khoản 1 Điều 45 Luật Việc làm để tính cho lần hưởng trợ cấp thất nghiệp tiếp theo.",
+    "references": ["rule/19"]
+  },
+  {
+    "id": "rule/69",
+    "lookUpId": "lookUp/26",
+    "keyphrase": "người lao động không đến nhận trợ cấp thất nghiệp",
+    "content": "6. Sau thời hạn 03 tháng kể từ ngày người lao động hết thời hạn hưởng trợ cấp thất nghiệp theo quyết định hưởng trợ cấp thất nghiệp nhưng người lao động không đến nhận tiền trợ cấp thất nghiệp và không thông báo bằng văn bản với tổ chức bảo hiểm xã hội nơi đang hưởng trợ cấp thất nghiệp thì người lao động đó được xác định là không có nhu cầu hưởng trợ cấp thất nghiệp. Thời gian đóng bảo hiểm thất nghiệp tương ứng với số tiền trợ cấp thất nghiệp mà người lao động không đến nhận được bảo lưu làm căn cứ để tính thời gian hưởng trợ cấp thất nghiệp cho lần hưởng trợ cấp thất nghiệp tiếp theo khi đủ điều kiện hưởng trợ cấp thất nghiệp theo quy định.\nTrong thời hạn 07 ngày làm việc sau thời hạn nêu trên, tổ chức bảo hiểm xã hội phải thông báo bằng văn bản với trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp về việc người lao động không đến nhận tiền trợ cấp thất nghiệp. Thông báo về việc người lao động không đến nhận tiền trợ cấp thất nghiệp thực hiện theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.\nTrong thời hạn 10 ngày làm việc kể từ ngày nhận được thông báo của tổ chức bảo hiểm xã hội, trung tâm dịch vụ việc làm có trách nhiệm xem xét, trình Giám đốc Sở Lao động - Thương binh và Xã hội quyết định về việc bảo lưu thời gian đóng bảo hiểm thất nghiệp cho người lao động.\nQuyết định về việc bảo lưu thời gian đóng bảo hiểm thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến Bảo hiểm xã hội cấp tỉnh để thực hiện bảo lưu thời gian đóng bảo hiểm thất nghiệp cho người lao động; 01 bản đến người lao động. Quyết định về việc bảo lưu thời gian đóng bảo hiểm thất nghiệp thực hiện theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.",
+    "references": []
+  },
+  {
+    "id": "rule/70",
+    "lookUpId": "lookUp/26",
+    "keyphrase": "thời gian hưởng trợ cấp thất nghiệp",
+    "content": "7. Thời gian hưởng trợ cấp thất nghiệp được tính theo số tháng đóng bảo hiểm thất nghiệp theo quy định tại Khoản 2 Điều 50 Luật Việc làm. Người lao động có thời gian đóng bảo hiểm thất nghiệp trên 36 tháng thì những tháng lẻ chưa giải quyết hưởng trợ cấp thất nghiệp được bảo lưu làm căn cứ để tính thời gian hưởng trợ cấp thất nghiệp cho lần hưởng trợ cấp thất nghiệp tiếp theo khi đủ điều kiện hưởng trợ cấp thất nghiệp theo quy định.",
+    "references": ["rule/62"]
+  },
+  {
+    "id": "rule/71",
+    "lookUpId": "lookUp/27",
+    "keyphrase": "mức hưởng trợ cấp thất nghiệp",
+    "content": "1. Mức hưởng trợ cấp thất nghiệp hằng tháng của người lao động được xác định như sau:\nMức hưởng trợ cấp thất nghiệp hằng tháng = Mức lương bình quân của 06 tháng liền kề có đóng bảo hiểm thất nghiệp trước khi thất nghiệp x 60%\na) Trường hợp những tháng cuối cùng trước khi thất nghiệp, người lao động có thời gian gián đoạn đóng bảo hiểm thất nghiệp thì 06 tháng liền kề để tính mức hưởng trợ cấp thất nghiệp là bình quân tiền lương của 06 tháng đóng bảo hiểm thất nghiệp trước khi người lao động chấm dứt hợp đồng lao động hoặc hợp đồng làm việc theo quy định của pháp luật.\nVí dụ 1: Bà Nguyễn Thị A giao kết hợp đồng lao động có thời hạn 24 tháng với trường tiểu học E với mức lương như sau: từ ngày 01/9/2013 đến ngày 31/8/2014 là 2.000.000 đồng/tháng, từ ngày 01/09/2014 đến 31/8/2015 là 4.000.000 đồng/tháng. Tuy nhiên, từ ngày 01/1/2015 đến ngày 30/6/2015, bà A nghỉ hưởng chế độ thai sản. Sau đó, do điều kiện hoàn cảnh gia đình khó khăn nên bà không thể tiếp tục thực hiện hợp đồng lao động vì vậy bà A đã làm đơn xin nghỉ việc theo quy định của pháp luật lao động và ngày 01/7/2015 trường tiểu học E ban hành quyết định nghỉ việc cho bà A, quyết định có hiệu lực kể từ ngày ký. Như vậy, mức tiền lương đóng bảo hiểm thất nghiệp làm căn cứ tính mức hưởng trợ cấp thất nghiệp của bà A là bình quân tiền lương của 06 tháng liền kề trước khi bà nghỉ việc mà có đóng bảo hiểm thất nghiệp (tháng 7, 8, 9, 10, 11, 12/2014). Mức hưởng trợ cấp thất nghiệp hằng tháng của bà A là (2.000.000 đồng x 2 tháng + 4.000.000 đồng x 4 tháng)/6 x 60% = 2.000.000 đồng/tháng.\nVí dụ 2: Ông Đào Văn B có thời gian đóng bảo hiểm thất nghiệp liên tục 38 tháng (từ ngày 01/01/2012 đến ngày 28/02/2015), mức tiền lương làm căn cứ đóng bảo hiểm thất nghiệp 06 tháng cuối trước khi chấm dứt hợp đồng lao động (từ tháng 9/2014 đến tháng 2/2015) là 8.000.000 đồng/tháng, ông B được hưởng trợ cấp thất nghiệp với thời gian 03 tháng (thời gian hưởng trợ cấp thất nghiệp của ông B tính từ ngày 05/4/2015 đến ngày 04/7/2015). Ngày 02/5/2015, ông B giao kết hợp đồng lao động có thời hạn 12 tháng với doanh nghiệp X (mức tiền lương làm căn cứ đóng bảo hiểm thất nghiệp là 7.000.000 đồng/tháng) và thông báo với trung tâm dịch vụ việc làm theo quy định. Ông B bị chấm dứt hưởng trợ cấp thất nghiệp từ ngày 02/5/2015 và được bảo lưu 26 tháng đóng bảo hiểm thất nghiệp. Do ốm đau cần phải điều trị dài ngày nên ngày 28/7/2015 ông B thỏa thuận với doanh nghiệp X để chấm dứt hợp đồng lao động và nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp lần hai. Sáu tháng liền kề có đóng bảo hiểm thất nghiệp để làm căn cứ tính mức trợ cấp thất nghiệp của ông B là các tháng sau: tháng 12/2014 và tháng 01, 02, 5, 6, 7/2015. Như vậy, mức trợ cấp thất nghiệp hằng tháng của ông B là (8.000.000 đồng x 3 tháng + 7.000.000 đồng x 3 tháng)/6 x 60% = 4.500.000 đồng/tháng.\nb) Mức hưởng trợ cấp thất nghiệp hằng tháng của người lao động tối đa không quá 05 lần mức lương cơ sở đối với người lao động thuộc đối tượng thực hiện chế độ tiền lương do Nhà nước quy định hoặc không quá 05 lần mức lương tối thiểu vùng theo quy định của Bộ luật Lao động đối với người lao động đóng bảo hiểm thất nghiệp theo chế độ tiền lương do người sử dụng lao động quyết định tại thời điểm chấm dứt hợp đồng lao động.\nVí dụ 3: Ngày 01/01/2015, ông Trịnh Xuân C giao kết hợp đồng lao động có thời hạn 12 tháng với doanh nghiệp F với mức lương là 70.000.000 đồng/tháng. Doanh nghiệp F hoạt động trên địa bàn thuộc vùng I, áp dụng mức lương tối thiểu vùng theo quy định của Chính phủ là 3.100.000 đồng/tháng. Do đó, mức tiền lương tháng đóng bảo hiểm thất nghiệp của ông C là: 20 lần x 3.100.000 đồng = 62.000.000 đồng/tháng.\nNgày 28/9/2015, ông C thỏa thuận chấm dứt hợp đồng lao động với doanh nghiệp F và chuyển sang giao kết hợp đồng lao động có thời hạn 03 tháng với doanh nghiệp G (từ ngày 01/10/2015 đến 31/12/2015) với mức lương là 80.000.000 đồng/tháng. Doanh nghiệp G có trụ sở chính hoạt động trên địa bàn thuộc vùng IV, áp dụng mức lương tối thiểu vùng theo quy định của Chính phủ là 2.150.000 đồng/tháng nhưng ông C không làm việc tại trụ sở chính mà làm việc tại chi nhánh, chi nhánh này hoạt động trên địa bàn thuộc vùng III, áp dụng mức lương tối thiểu vùng theo quy định của Chính phủ là 2.400.000 đồng/tháng. Do đó, ông C tham gia và đóng bảo hiểm thất nghiệp tại tổ chức bảo hiểm xã hội nơi chi nhánh hoạt động với mức lương là: 20 lần x 2.400.000 đồng = 48.000.000 đồng/tháng.\nHết hạn hợp đồng lao động với doanh nghiệp G, ông C nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp. Như vậy, 60% mức tiền lương bình quân của 06 tháng liền kề trước khi ông C chấm dứt hợp đồng lao động là: (62.000.000 đồng x 3 tháng + 48.000.000 đồng x 3 tháng)/6 x 60% = 33.000.000 đồng. Tuy nhiên, theo quy định thì mức hưởng trợ cấp thất nghiệp của ông C tối đa không quá 5 lần mức lương tối thiểu vùng tại thời điểm ông chấm dứt hợp đồng lao động. Do đó, mức hưởng trợ cấp thất nghiệp hằng tháng của ông C là 12.000.000 đồng/tháng (2.400.000 đồng x 5 lần = 12.000.000 đồng/tháng).",
+    "references": []
+  },
+  {
+    "id": "rule/72",
+    "lookUpId": "lookUp/27",
+    "keyphrase": "tháng hưởng trợ cấp thất nghiệp",
+    "content": "2. Tháng hưởng trợ cấp thất nghiệp theo quy định tại Khoản 4 Điều 21 Nghị định số 28/2015/NĐ-CP được hướng dẫn thực hiện như sau:\nTháng hưởng trợ cấp thất nghiệp được tính theo tháng dương lịch. Mỗi tháng hưởng trợ cấp thất nghiệp được tính từ ngày người lao động bắt đầu hưởng trợ cấp thất nghiệp theo quy định tại Khoản 3 Điều 50 Luật Việc làm đến ngày đó của tháng sau trừ 01 ngày.\nVí dụ 4: Ông Cao Văn D được hưởng trợ cấp thất nghiệp 03 tháng, thời gian hưởng trợ cấp thất nghiệp của ông D tính từ ngày 11/3/2015 đến ngày 10/6/2015. Như vậy, tháng hưởng trợ cấp thất nghiệp của ông D được xác định như sau:\nTháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 11/3/2015 đến hết ngày 10/4/2015;\nTháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 11/4/2015 đến hết ngày 10/5/2015;\nTháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 11/5/2015 đến hết ngày 10/6/2015.",
+    "references": ["rule/91", "rule/63"]
+  },
+  {
+    "id": "rule/73",
+    "lookUpId": "lookUp/27",
+    "keyphrase": "chi trả trợ cấp thất nghiệp",
+    "content": "3. Trình tự, thủ tục, hình thức chi trả trợ cấp thất nghiệp theo hướng dẫn của Bảo hiểm xã hội Việt Nam.",
+    "references": []
+  },
+  {
+    "id": "rule/74",
+    "lookUpId": "lookUp/28",
+    "keyphrase": "",
+    "content": "1. Người đang hưởng trợ cấp thất nghiệp được hưởng chế độ bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế.",
+    "references": []
+  },
+  {
+    "id": "rule/75",
+    "lookUpId": "lookUp/28",
+    "keyphrase": "",
+    "content": "2. Tổ chức bảo hiểm xã hội đóng bảo hiểm y tế cho người đang hưởng trợ cấp thất nghiệp từ Quỹ bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/76",
+    "lookUpId": "lookUp/29",
+    "keyphrase": "",
+    "content": "1. Căn cứ quyết định về việc hưởng trợ cấp thất nghiệp, cơ quan bảo hiểm xã hội cấp thẻ bảo hiểm y tế cho người lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/77",
+    "lookUpId": "lookUp/29",
+    "keyphrase": "",
+    "content": "2. Người lao động bị chấm dứt hưởng bảo hiểm y tế khi chấm dứt hưởng trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/78",
+    "lookUpId": "lookUp/30",
+    "keyphrase": "đối tượng người lao động phải thông báo việc tìm kiếm việc làm khi đang hưởng trợ cấp thất nghiệp",
+    "content": "1. Trong thời gian hưởng trợ cấp thất nghiệp, hằng tháng người lao động phải trực tiếp thông báo về việc tìm kiếm việc làm với trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp theo Mẫu số 16 ban hành kèm theo Thông tư này, trừ trường hợp quy định tại Khoản 2 và Khoản 3 Điều này.",
+    "references": ["rule/79", "rule/80"]
+  },
+  {
+    "id": "rule/79",
+    "lookUpId": "lookUp/30",
+    "keyphrase": "đối tượng người lao động không phải thông báo việc tìm kiếm việc làm khi đang hưởng trợ cấp thất nghiệp",
+    "content": "2. Người lao động đang hưởng trợ cấp thất nghiệp không phải thực hiện thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau:\na) Nam từ đủ 60 tuổi trở lên, nữ từ đủ 55 tuổi trở lên;\nb) Người lao động được xác định thuộc danh mục bệnh phải điều trị dài ngày có giấy xác nhận của cơ sở y tế có thẩm quyền;\nc) Nghỉ hưởng chế độ thai sản có xác nhận của cơ sở y tế có thẩm quyền. Riêng đối với trường hợp nam giới có vợ chết sau khi sinh con mà phải trực tiếp nuôi dưỡng con thì giấy tờ xác nhận là giấy khai sinh của con và giấy chứng tử của mẹ;\nd) Đang tham gia khóa học nghề theo quyết định của Giám đốc Sở Lao động – Thương binh và Xã hội và có xác nhận của cơ sở dạy nghề;\nđ) Thực hiện hợp đồng lao động theo mùa vụ hoặc theo một công việc nhất định có thời hạn dưới 03 tháng.\nTrong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc một trong các trường hợp tại các Điểm b, c, d, đ của Khoản này thì người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp giấy đề nghị không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm theo Mẫu số 17 ban hành kèm theo Thông tư này và kèm theo bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện. Sau khi hết thời hạn của một trong các trường hợp nêu trên, người lao động phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định.\nVí dụ 14: Bà Trần Thị T có quyết định về việc hưởng trợ cấp thất nghiệp 06 tháng kể từ ngày 02/3/2015 đến ngày 01/9/2015 (ngày thông báo về việc tìm kiếm việc làm hằng tháng cụ thể như sau: Tháng hưởng trợ cấp thất nghiệp thứ nhất là ngày nhận trả kết quả, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 03 đến ngày 07/4, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 04 đến ngày 06/5, tháng hưởng trợ cấp thất nghiệp thứ tư từ ngày 03 đến ngày 05/6, tháng hưởng trợ cấp thất nghiệp thứ năm từ ngày 02 đến ngày 06/7, tháng hưởng trợ cấp thất nghiệp thứ sáu từ ngày 03 đến ngày 07/8). Bà T có quyết định về việc hỗ trợ học nghề của Giám đốc Sở Lao động – Thương binh và Xã hội, thời gian học nghề của bà là 03 tháng tính từ ngày 15/4/2015 đến ngày 15/7/2015. Như vậy, chậm nhất vào ngày 20/4/2015 (sau 03 ngày làm việc kể từ ngày bà T được hỗ trợ học nghề), bà T phải gửi giấy xác nhận của cơ sở dạy nghề về việc đang học nghề cho trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp. Tháng hưởng trợ cấp thất nghiệp thứ ba, thứ tư, thứ năm bà T không phải thông báo về việc tìm kiếm việc làm. Tuy nhiên, đến tháng hưởng trợ cấp thất nghiệp thứ sáu bà T phải tiếp tục thực hiện thông báo về việc tìm kiếm việc làm theo quy định.",
+    "references": []
+  },
+  {
+    "id": "rule/80",
+    "lookUpId": "lookUp/30",
+    "keyphrase": "đối tượng người lao động không phải thông báo việc tìm kiếm việc làm khi đang hưởng trợ cấp thất nghiệp",
+    "content": "3. Người lao động đang hưởng trợ cấp thất nghiệp không phải trực tiếp thông báo hằng tháng về việc tìm kiếm việc làm nếu thời gian thông báo về việc tìm kiếm việc làm nằm trong khoảng thời gian mà người lao động thuộc một trong các trường hợp sau:\na) Ốm đau nhưng không thuộc trường hợp quy định tại Điểm b Khoản 2 Điều này có xác nhận của cơ sở y tế có thẩm quyền;\nb) Bị tai nạn có xác nhận của cảnh sát giao thông hoặc cơ sở y tế có thẩm quyền;\nc) Bị hỏa hoạn, lũ lụt, động đất, sóng thần, địch họa, dịch bệnh có xác nhận của Chủ tịch Ủy ban nhân dân xã, phường, thị trấn;\nd) Cha, mẹ, vợ/chồng, con của người lao động chết; người lao động hoặc con của người lao động kết hôn có giấy xác nhận của Ủy ban nhân dân xã, phường, thị trấn.\nCác trường hợp không trực tiếp đến trung tâm dịch vụ việc làm thì chậm nhất trong thời hạn 03 ngày làm việc kể từ ngày cuối cùng của thời hạn thông báo hằng tháng về việc tìm kiếm việc làm theo quy định, người lao động phải gửi thư bảo đảm hoặc ủy quyền cho người khác nộp bản chính hoặc bản sao có chứng thực một trong các giấy tờ theo quy định nêu trên đến trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày gửi ghi trên dấu bưu điện.",
+    "references": []
+  },
+  {
+    "id": "rule/81",
+    "lookUpId": "lookUp/30",
+    "keyphrase": "thời gian người lao động thông báo việc tìm kiếm việc làm khi đang hưởng trợ cấp thất nghiệp",
+    "content": "4. Ngày người lao động thông báo hằng tháng về việc tìm kiếm việc làm được ghi cụ thể trong phụ lục quyết định hưởng trợ cấp thất nghiệp của người lao động như sau:\na) Ngày của tháng thứ nhất hưởng trợ cấp thất nghiệp là ngày nhận quyết định hưởng trợ cấp thất nghiệp theo phiếu hẹn trả kết quả;\nb) Từ tháng thứ hai trở đi người lao động thực hiện ngày thông báo hằng tháng về việc tìm kiếm việc làm trong thời hạn 03 ngày làm việc kể từ ngày đầu tiên của tháng hưởng trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/82",
+    "lookUpId": "lookUp/30",
+    "keyphrase": "thông báo việc tìm kiếm việc làm trong khi đang chuyển nơi hưởng trợ cấp thất nghiệp",
+    "content": "5. Trường hợp ngày thông báo hằng tháng về việc tìm kiếm việc làm của người lao động nằm trong khoảng thời gian làm thủ tục chuyển nơi hưởng trợ cấp thất nghiệp theo quy định tại Điều 22 Nghị định số 28/2015/NĐ-CP thì người lao động không phải thực hiện việc thông báo về việc tìm kiếm việc làm với trung tâm dịch vụ việc làm.\nVí dụ 15: Bà Nguyễn Lan Y có quyết định hưởng trợ cấp thất nghiệp với thời gian 03 tháng. Tháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 02/7/2015 đến ngày 01/8/2015, tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 02/8/2015 đến ngày 01/9/2015, tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 02/9/2015 đến ngày 01/10/2015. Sau khi hưởng trợ cấp thất nghiệp tháng đầu tiên, ngày 28/7/2015 bà Y làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp trong khi ngày thông báo về việc tìm kiếm việc làm tháng hưởng trợ cấp thất nghiệp thứ hai của bà Y là ngày 03 đến ngày 05/8/2015. Như vậy, bà Y không phải thực hiện việc thông báo tìm kiếm việc làm hằng tháng với trung tâm dịch vụ việc làm nơi chuyển đi cũng như nơi chuyển đến mà không bị tạm dừng hưởng trợ cấp thất nghiệp.",
+    "references": ["lookUp/35"]
+  },
+  {
+    "id": "rule/83",
+    "lookUpId": "lookUp/30",
+    "keyphrase": "",
+    "content": "6. Người lao động đang hưởng trợ cấp thất nghiệp được coi là đã thông báo hằng tháng về việc tìm kiếm việc làm khi đã ghi đúng và đầy đủ các nội dung trong thông báo hằng tháng về việc tìm kiếm việc làm và chịu trách nhiệm về nội dung thông báo.",
+    "references": []
+  },
+  {
+    "id": "rule/84",
+    "lookUpId": "lookUp/31",
+    "keyphrase": "",
+    "content": "1. Người lao động đang hưởng trợ cấp thất nghiệp phải thực hiện thông báo về việc tìm kiếm việc làm theo quy định tại Điều 52 Luật Việc làm.",
+    "references": ["lookUp/09"]
+  },
+  {
+    "id": "rule/85",
+    "lookUpId": "lookUp/31",
+    "keyphrase": "",
+    "content": "2. Trong thời hạn 02 ngày làm việc kể từ ngày người lao động không đến thông báo về việc tìm kiếm việc làm hằng tháng theo quy định, trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp trình Giám đốc Sở Lao động - Thương binh và Xã hội quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp của người lao động.\nQuyết định về việc tạm dừng hưởng trợ cấp thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến Bảo hiểm xã hội cấp tỉnh để thực hiện tạm dừng chi trả trợ cấp thất nghiệp đối với người lao động; 01 bản đến người lao động. Quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp thực hiện theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.",
+    "references": ["lookUp/09"]
+  },
+  {
+    "id": "rule/86",
+    "lookUpId": "lookUp/32",
+    "keyphrase": "",
+    "content": "1. Người lao động bị tạm dừng hưởng trợ cấp thất nghiệp theo quy định tại Khoản 1 Điều 53 Luật Việc làm nếu vẫn còn thời gian hưởng trợ cấp thất nghiệp theo quyết định của Giám đốc Sở Lao động - Thương binh và Xã hội mà tiếp tục thực hiện thông báo về việc tìm kiếm việc làm hằng tháng theo quy định thì trong thời hạn 02 ngày làm việc kể từ ngày người lao động đến thông báo về việc tìm kiếm việc làm, trung tâm dịch vụ việc làm trình Giám đốc Sở Lao động -Thương binh và Xã hội quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp cho người lao động.\nQuyết định về việc tiếp tục hưởng trợ cấp thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến Bảo hiểm xã hội cấp tỉnh để thực hiện tiếp tục chi trả trợ cấp thất nghiệp cho người lao động; 01 bản đến người lao động. Quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp thực hiện theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.",
+    "references": ["rule/22"]
+  },
+  {
+    "id": "rule/87",
+    "lookUpId": "lookUp/32",
+    "keyphrase": "",
+    "content": "2. Thời gian tạm dừng hưởng trợ cấp thất nghiệp, người lao động không được hưởng tiền trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/88",
+    "lookUpId": "lookUp/33",
+    "keyphrase": "",
+    "content": "1. Các trường hợp người lao động đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp được quy định như sau:\na) Hết thời hạn hưởng trợ cấp thất nghiệp theo quyết định hưởng trợ cấp thất nghiệp của người lao động;\nb) Có việc làm\nNgười lao động được xác định là có việc làm khi thuộc một trong các trường hợp sau:\n- Đã giao kết hợp đồng làm việc, hợp đồng lao động theo mùa vụ hoặc theo công việc nhất định có thời hạn từ đủ 01 tháng trở lên. Ngày mà người lao động được xác định có việc làm là ngày hợp đồng làm việc, hợp đồng lao động có hiệu lực theo quy định của pháp luật;\n- Có quyết định tuyển dụng hoặc bổ nhiệm đối với những trường hợp không thuộc đối tượng giao kết hợp đồng lao động hoặc hợp đồng làm việc. Ngày mà người lao động được xác định có việc làm trong trường hợp này là ngày người lao động được tuyển dụng hoặc bổ nhiệm ghi trong quyết định tuyển dụng hoặc bổ nhiệm;\n- Có giấy chứng nhận đăng ký hộ kinh doanh đối với trường hợp người lao động là chủ hộ kinh doanh hoặc có giấy chứng nhận đăng ký doanh nghiệp đối với trường hợp người lao động là chủ doanh nghiệp. Ngày mà người lao động được xác định có việc làm là ngày người lao động thông báo với trung tâm dịch vụ việc làm về việc hộ kinh doanh hoặc doanh nghiệp bắt đầu hoạt động kinh doanh;\n- Người lao động thông báo đã có việc làm cho trung tâm dịch vụ việc làm. Ngày mà người lao động được xác định có việc làm là ngày ghi trong thông báo có việc làm của người lao động.\nd) Hưởng lương hưu hằng tháng\nNgày mà người lao động được xác định hưởng lương hưu là ngày đầu tiên tính hưởng lương hưu được ghi trong văn bản của cơ quan bảo hiểm xã hội về việc hưởng lương hưu hằng tháng của người lao động.\nđ) Sau 02 lần người lao động từ chối việc làm do trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp giới thiệu mà không có lý do chính đáng\nNgười lao động đang hưởng trợ cấp thất nghiệp từ chối việc làm thuộc một trong các trường hợp sau, được xác định là không có lý do chính đáng:\n- Người lao động được trung tâm dịch vụ việc làm giới thiệu việc làm phù hợp với ngành, nghề, trình độ được đào tạo hoặc công việc người lao động đã từng làm được ghi trong phiếu tư vấn, giới thiệu việc làm nhưng không đến tham gia dự tuyển lao động;\n- Người lao động đã tham gia dự tuyển lao động theo giới thiệu của trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp và được người sử dụng lao động tuyển dụng nhưng không nhận việc làm đã trúng tuyển, trừ trường hợp việc làm đó không đúng như thông báo tuyển lao động của người sử dụng lao động.\ne) Trong thời gian hưởng trợ cấp thất nghiệp, 03 tháng liên tục không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm với trung tâm dịch vụ việc làm theo quy định\nNgày mà người lao động được xác định bị chấm dứt hưởng trợ cấp thất nghiệp là ngày kết thúc của thời hạn thông báo tìm kiếm việc làm của tháng thứ 3 liên tục mà người lao động không thực hiện thông báo hằng tháng về việc tìm kiếm việc làm.\nh) Đi học tập có thời hạn từ đủ 12 tháng trở lên\nNgày mà người lao động được xác định đi học tập có thời hạn từ đủ 12 tháng trở lên là ngày nhập học được ghi trong giấy báo nhập học.\ni) Bị xử phạt vi phạm hành chính về hành vi vi phạm pháp luật bảo hiểm thất nghiệp\nNgày mà người lao động được xác định bị xử phạt vi phạm hành chính nêu trên là ngày người lao động bị xử phạt theo quyết định của cơ quan có thẩm quyền.\nk) Chết\nNgày xác định người lao động chết là ngày ghi trong giấy chứng tử.\nl) Chấp hành quyết định áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc\nNgày mà người lao động được xác định chấp hành quyết định áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc là ngày bắt đầu thực hiện biện pháp xử lý hành chính được ghi trong quyết định của cơ quan có thẩm quyền.\nm) Bị tòa án tuyên bố mất tích\nNgày mà người lao động mất tích được xác định trong quyết định của tòa án.\nn) Bị tạm giam, chấp hành hình phạt tù\nNgày mà người lao động được xác định bị tạm giam, chấp hành hình phạt tù là ngày bắt đầu thực hiện quyết định tạm giam, chấp hành hình phạt tù của cơ quan có thẩm quyền.",
+    "references": []
+  },
+  {
+    "id": "rule/89",
+    "lookUpId": "lookUp/33",
+    "keyphrase": "",
+    "content": "2. Trong thời hạn 03 ngày làm việc kể từ ngày người lao động thuộc các trường hợp bị chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại các điểm b, c, d và h khoản 1 Điều này, người lao động phải thông báo với trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp và kèm theo bản sao giấy tờ có liên quan đến việc chấm dứt hưởng trợ cấp thất nghiệp, trường hợp gửi theo đường bưu điện thì tính theo ngày ghi trên dấu bưu điện.",
+    "references": ["rule/88"]
+  },
+  {
+    "id": "rule/90",
+    "lookUpId": "lookUp/33",
+    "keyphrase": "",
+    "content": "3. Người lao động đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp trong các trường hợp quy định tại các Điểm b, c, d, đ, e, g, h, i, k, l, m và n Khoản 1 Điều này thì trung tâm dịch vụ việc làm nơi người lao động đang hưởng trợ cấp thất nghiệp trình Giám đốc Sở Lao động - Thương binh và Xã hội quyết định về việc chấm dứt hưởng trợ cấp thất nghiệp của người lao động.\nQuyết định về việc chấm dứt hưởng trợ cấp thất nghiệp được trung tâm dịch vụ việc làm gửi: 01 bản đến Bảo hiểm xã hội cấp tỉnh để thực hiện việc chấm dứt hưởng trợ cấp thất nghiệp đối với người lao động; 01 bản đến người lao động. Quyết định về việc chấm dứt hưởng trợ cấp thất nghiệp thực hiện theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.",
+    "references": ["rule/89"]
+  },
+  {
+    "id": "rule/91",
+    "lookUpId": "lookUp/33",
+    "keyphrase": "",
+    "content": "4. Người lao động đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp vào những ngày của tháng đang hưởng trợ cấp thất nghiệp thì người lao động vẫn được hưởng trợ cấp thất nghiệp của cả tháng đó.",
+    "references": []
+  },
+  {
+    "id": "rule/92",
+    "lookUpId": "lookUp/33",
+    "keyphrase": "bảo lưu thời gian đóng bảo hiểm thất nghiệp",
+    "content": "5. Người lao động bị chấm dứt hưởng trợ cấp thất nghiệp thuộc các trường hợp quy định tại các điểm b, c, h, l, m và n khoản 1 Điều này thì thời gian đóng bảo hiểm thất nghiệp tương ứng với thời gian còn lại mà người lao động chưa nhận trợ cấp thất nghiệp được bảo lưu làm căn cứ để tính thời gian hưởng trợ cấp thất nghiệp cho lần hưởng trợ cấp thất nghiệp tiếp theo khi đủ điều kiện hưởng trợ cấp thất nghiệp theo quy định, trừ trường hợp người lao động bị chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại điểm b, c, h khoản 1 Điều này nhưng không thực hiện thông báo theo quy định tại khoản 2 Điều này.\nThời gian bảo lưu được tính bằng tổng thời gian đóng bảo hiểm thất nghiệp trừ đi thời gian đóng đã được hưởng trợ cấp thất nghiệp theo nguyên tắc mỗi tháng đã hưởng trợ cấp thất nghiệp tương ứng 12 tháng đã đóng bảo hiểm thất nghiệp và trừ những tháng lẻ chưa giải quyết hưởng trợ cấp thất nghiệp được bảo lưu trong quyết định về việc hưởng trợ cấp thất nghiệp (nếu có).",
+    "references": ["rule/89", "rule/90"]
+  },
+  {
+    "id": "rule/93",
+    "lookUpId": "lookUp/34",
+    "keyphrase": "",
+    "content": "1. Bảo lưu thời gian đóng bảo hiểm thất nghiệp của người lao động được xác định như sau:\nThời gian đóng bảo hiểm thất nghiệp được bảo lưu = Tổng thời gian đóng bảo hiểm thất nghiệp - Thời gian đóng bảo hiểm thất nghiệp đã hưởng trợ cấp thất nghiệp",
+    "references": []
+  },
+  {
+    "id": "rule/94",
+    "lookUpId": "lookUp/34",
+    "keyphrase": "",
+    "content": "2. Các trường hợp người lao động có thời gian đóng bảo hiểm thất nghiệp được bảo lưu, bao gồm:\na) Bảo lưu thời gian đóng bảo hiểm thất nghiệp khi người lao động không đến nhận quyết định hưởng trợ cấp thất nghiệp được thực hiện theo quy định tại Khoản 3 và Khoản 4 Điều 18 Nghị định số 28/2015/NĐ-CP.\nSau khi có quyết định của Giám đốc Sở Lao động-Thương binh và Xã hội về việc hủy quyết định hưởng trợ cấp thất nghiệp, trung tâm dịch vụ việc làm thực hiện trả hồ sơ cho người lao động. Trường hợp sau 03 tháng kể từ ngày hết thời hạn trả kết quả mà người lao động không đến trung tâm dịch vụ việc làm nhận lại sổ bảo hiểm xã hội thì trong thời hạn 03 ngày làm việc kể từ ngày cuối cùng của 03 tháng nêu trên, trung tâm dịch vụ việc làm chuyển sổ bảo hiểm xã hội của người lao động đó đến Bảo hiểm xã hội cấp tỉnh để quản lý.\nVí dụ 5: Ông Trần Văn Đ có thời gian đóng bảo hiểm thất nghiệp là 36 tháng, được hưởng trợ cấp thất nghiệp với thời gian là 03 tháng. Ngày trả kết quả ghi trong phiếu hẹn trả kết quả của ông Đ là ngày 16/3/2015. Tuy nhiên đến hết ngày 18/3/2015 (tức là sau 02 ngày làm việc) ông Đ không đến nhận quyết định về việc hưởng trợ cấp thất nghiệp theo quy định. Do vậy, trong thời hạn 07 ngày làm việc kể từ ngày ông Đ không đến nhận quyết định về việc hưởng trợ cấp thất nghiệp theo quy định, trung tâm dịch vụ việc làm trình Giám đốc Sở Lao động - Thương binh và Xã hội quyết định về việc hủy quyết định hưởng trợ cấp thất nghiệp của ông Đ. Thời gian đóng bảo hiểm thất nghiệp của ông Đ được bảo lưu là 36 tháng.\nb) Bảo lưu thời gian đóng bảo hiểm thất nghiệp khi người lao động không đến nhận tiền trợ cấp thất nghiệp được thực hiện theo quy định tại Khoản 6 Điều 18 Nghị định số 28/2015/NĐ-CP.\nTổ chức bảo hiểm xã hội căn cứ quyết định về việc bảo lưu thời gian đóng bảo hiểm thất nghiệp của người lao động thực hiện bảo lưu thời gian đóng bảo hiểm thất nghiệp vào sổ bảo hiểm xã hội theo hướng dẫn của Bảo hiểm xã hội Việt Nam.\nVí dụ 6: Ông Trần Văn S có thời gian đóng bảo hiểm thất nghiệp là 36 tháng, được hưởng trợ cấp thất nghiệp là 03 tháng. Thời gian hưởng trợ cấp thất nghiệp của ông S tính từ ngày 20/02/2015 đến ngày 19/5/2015. Tuy nhiên, đến ngày 19/8/2015 (tức là sau 03 tháng kể từ ngày hết thời hạn hưởng trợ cấp thất nghiệp) ông S vẫn không đến nhận tiền trợ cấp thất nghiệp của tháng hưởng trợ cấp thất nghiệp thứ ba. Như vậy, thời gian đóng bảo hiểm thất nghiệp mà ông S được bảo lưu là 12 tháng (tương ứng với 01 tháng hưởng trợ cấp thất nghiệp mà ông S không đến nhận tiền trợ cấp thất nghiệp).\nVí dụ 7: Bà Lê Thị T có thời gian đóng bảo hiểm thất nghiệp là 12 tháng, được hưởng trợ cấp thất nghiệp với thời gian là 03 tháng. Thời gian hưởng trợ cấp thất nghiệp của bà T tính từ ngày 06/7/2015 đến ngày 05/10/2015. Tuy nhiên, đến hết ngày 05/01/2016 (tức là sau 03 tháng kể từ ngày hết thời hạn hưởng trợ cấp thất nghiệp) bà T vẫn không đến nhận tiền trợ cấp thất nghiệp của tháng hưởng trợ cấp thất nghiệp thứ hai và thứ ba. Như vậy, bà T đã nhận trợ cấp thất nghiệp 01 tháng (tương ứng với 12 tháng đóng bảo hiểm thất nghiệp) nên thời gian đóng bảo hiểm thất nghiệp của bà T không còn để bảo lưu.\nVí dụ 8: Bà Bùi Xuân H có thời gian đóng bảo hiểm thất nghiệp là 29 tháng, bà được hưởng trợ cấp thất nghiệp với thời gian là 03 tháng. Thời gian hưởng trợ cấp thất nghiệp của bà tính từ ngày 09/3/2015 đến ngày 08/6/2015. Bà H đã nhận trợ cấp thất nghiệp tháng đầu tiên và bị tạm dừng hưởng trợ cấp thất nghiệp tháng thứ hai. Tháng hưởng trợ cấp thất nghiệp thứ ba bà đến trung tâm dịch vụ việc làm để thông báo về việc tìm kiếm việc làm hằng tháng theo quy định nên bà được tiếp tục hưởng trợ cấp thất nghiệp tháng thứ ba. Tuy nhiên, đến hết ngày 08/9/2015 (tức là sau 03 tháng kể từ ngày hết thời hạn hưởng trợ cấp thất nghiệp), bà H vẫn không đến nhận tiền trợ cấp thất nghiệp của tháng hưởng trợ cấp thất nghiệp thứ ba. Như vậy, bà H đã hưởng trợ cấp thất nghiệp 01 tháng (tương ứng với 12 tháng đóng bảo hiểm thất nghiệp) và bị tạm dừng 01 tháng hưởng trợ cấp thất nghiệp (tương ứng với 12 tháng đóng bảo hiểm thất nghiệp) nên thời gian đóng bảo hiểm thất nghiệp được bảo lưu của bà H là 05 tháng.\nc) Bảo lưu thời gian đóng bảo hiểm thất nghiệp khi người lao động có những tháng lẻ chưa giải quyết hưởng trợ cấp thất nghiệp được thực hiện theo quy định tại Khoản 7 Điều 18 Nghị định số 28/2015/NĐ-CP.\nTổ chức bảo hiểm xã hội căn cứ quyết định của Giám đốc Sở Lao động-Thương binh và Xã hội về việc hưởng trợ cấp thất nghiệp thực hiện bảo lưu thời gian đóng bảo hiểm thất nghiệp vào sổ bảo hiểm xã hội theo hướng dẫn của Bảo hiểm xã hội Việt Nam.\nVí dụ 9: Ngày 24/3/2015, ông Trần Quang P chấm dứt hợp đồng lao động. Ông P có thời gian đóng bảo hiểm thất nghiệp là 47 tháng, được hưởng trợ cấp thất nghiệp với thời gian là 03 tháng (tương ứng với 36 tháng đóng bảo hiểm thất nghiệp). Do đó, thời gian ông P được bảo lưu là 11 tháng đóng bảo hiểm thất nghiệp.\nSau khi hết thời gian hưởng trợ cấp thất nghiệp, ông P giao kết hợp đồng lao động có thời hạn 03 tháng với doanh nghiệp F (từ ngày 05/9/2015 đến ngày 04/12/2015) và tiếp tục tham gia bảo hiểm thất nghiệp. Hết hạn hợp đồng lao động với doanh nghiệp F, ông P nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp lần hai. Như vậy, tổng thời gian đóng bảo hiểm thất nghiệp mà chưa được giải quyết hưởng trợ cấp thất nghiệp của ông P là 14 tháng. Nếu đáp ứng đủ điều kiện hưởng trợ cấp thất nghiệp thì ông P được hưởng trợ cấp thất nghiệp với thời gian 03 tháng.\nVí dụ 10: Ông Đỗ Văn G có thời gian đóng bảo hiểm thất nghiệp là 35 tháng, ông được hưởng trợ cấp thất nghiệp với thời gian là 03 tháng và không được bảo lưu tháng lẻ có đóng bảo hiểm thất nghiệp theo quy định tại Khoản 7 Điều 18 Nghị định số 28/2015/NĐ-CP.\nd) Bảo lưu thời gian đóng bảo hiểm thất nghiệp trong các trường hợp người lao động đang hưởng trợ cấp thất nghiệp bị chấm dứt hưởng trợ cấp thất nghiệp được thực hiện theo quy định tại Khoản 5 Điều 21 Nghị định số 28/2015/NĐ-CP.\nTổ chức bảo hiểm xã hội căn cứ quyết định về việc chấm dứt hưởng trợ cấp thất nghiệp của người lao động thực hiện việc bảo lưu thời gian đóng bảo hiểm thất nghiệp vào sổ bảo hiểm xã hội cho người lao động theo hướng dẫn của Bảo hiểm xã hội Việt Nam.\nVí dụ 11: Ông Nguyễn Văn V có thời gian đóng bảo hiểm thất nghiệp là 38 tháng, ông được hưởng trợ cấp thất nghiệp với thời gian là 03 tháng và được bảo lưu 02 tháng đóng bảo hiểm thất nghiệp theo quy định tại Điểm c Khoản 2 Điều này. Thời gian hưởng trợ cấp thất nghiệp của ông V tính từ ngày 02/3/2015 đến ngày 01/6/2015 (tháng hưởng trợ cấp thất nghiệp thứ nhất từ ngày 02/3/2015 đến ngày 01/4/2015; tháng hưởng trợ cấp thất nghiệp thứ hai từ ngày 02/4/2015 đến ngày 01/5/2015; tháng hưởng trợ cấp thất nghiệp thứ ba từ ngày 02/5/2015 đến ngày 01/6/2015). Tuy nhiên, ngày 25/4/2015 ông V thực hiện nghĩa vụ quân sự nên bị chấm dứt hưởng trợ cấp thất nghiệp do đó không được nhận 01 tháng trợ cấp thất nghiệp cuối cùng mà được bảo lưu thời gian đóng bảo hiểm thất nghiệp là 12 tháng. Như vậy, tổng thời gian đóng bảo hiểm thất nghiệp được bảo lưu của ông V là 12 tháng + 2 tháng = 14 tháng.\nVí dụ 12: Ông Nguyễn Văn L có thời gian đóng bảo hiểm thất nghiệp là 36 tháng, ông được hưởng trợ cấp thất nghiệp với thời gian là 03 tháng. Thời gian hưởng trợ cấp thất nghiệp của ông L tính từ ngày 10/3/2015 đến ngày 09/6/2015. Ngày 12/5/2015, ông L thông báo với trung tâm dịch vụ việc làm về việc đã tìm được việc làm để trung tâm dịch vụ việc làm thực hiện thủ tục chấm dứt hưởng trợ cấp thất nghiệp. Tuy nhiên, thực tế ngày 08/4/2015 ông đã thực hiện giao kết hợp đồng lao động có thời hạn 12 tháng với doanh nghiệp P, hợp đồng có hiệu lực kể từ ngày ký. Như vậy, ngày chấm dứt hưởng trợ cấp thất nghiệp của ông L là ngày 08/4/2015.\nVí dụ 13: Ông Đỗ Văn X có thời gian đóng bảo hiểm thất nghiệp là 13 tháng, ông được hưởng trợ cấp thất nghiệp với thời gian là 03 tháng. Thời gian hưởng trợ cấp thất nghiệp của ông X tính từ ngày 03/3/2015 đến ngày 02/6/2015. Tuy nhiên, ngày 25/3/2015 ông X có việc làm, như vậy ông X đã được hưởng trợ cấp thất nghiệp tháng đầu tiên (từ 03/3/2015 đến ngày 02/4/2015) tương ứng với 12 tháng đã đóng bảo hiểm thất nghiệp nên thời gian đóng bảo hiểm thất nghiệp của ông X được bảo lưu là 01 tháng.",
+    "references": []
+  },
+  {
+    "id": "rule/95",
+    "lookUpId": "lookUp/34",
+    "keyphrase": "",
+    "content": "3. Thời gian đóng bảo hiểm thất nghiệp của người lao động được bảo lưu theo quy định tại Khoản 5, Khoản 6, Khoản 7 Điều 18 và Khoản 5 Điều 21 Nghị định số 28/2015/NĐ-CP là khoảng thời gian đóng bảo hiểm thất nghiệp tính từ tháng đóng bảo hiểm thất nghiệp cuối cùng trước khi hưởng trợ cấp thất nghiệp.",
+    "references": ["rule/68", "rule/69", "rule/70", "rule/92"]
+  },
+  {
+    "id": "rule/96",
+    "lookUpId": "lookUp/34",
+    "keyphrase": "",
+    "content": "4. Người lao động được bảo lưu thời gian đóng bảo hiểm thất nghiệp theo quy định có trách nhiệm thực hiện thủ tục bảo lưu thời gian đóng bảo hiểm thất nghiệp theo hướng dẫn của Bảo hiểm xã hội Việt Nam.",
+    "references": []
+  },
+  {
+    "id": "rule/67",
+    "lookUpId": "lookUp/35",
+    "keyphrase": "điều kiện chuyển nơi hưởng trợ cấp thất nghiệp",
+    "content": "1. Người lao động đã hưởng ít nhất 01 tháng trợ cấp thất nghiệp theo quy định mà có nhu cầu chuyển nơi hưởng trợ cấp thất nghiệp đến tỉnh, thành phố trực thuộc Trung ương khác thì phải làm đề nghị chuyển nơi hưởng trợ cấp thất nghiệp theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định và gửi trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/97",
+    "lookUpId": "lookUp/35",
+    "keyphrase": "hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp",
+    "content": "2. Trong thời hạn 03 ngày làm việc, kể từ ngày nhận được đề nghị của người lao động, trung tâm dịch vụ việc làm có trách nhiệm cung cấp hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp cho người lao động và gửi giấy giới thiệu chuyển nơi hưởng trợ cấp thất nghiệp cho trung tâm dịch vụ việc làm nơi người lao động chuyển đến theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định. Hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp bao gồm:\na) Đề nghị chuyển nơi hưởng trợ cấp thất nghiệp của người lao động;\nb) Giấy giới thiệu chuyển nơi hưởng trợ cấp thất nghiệp;\nc) Bản chụp quyết định hưởng trợ cấp thất nghiệp;\nd) Bản chụp các quyết định hỗ trợ học nghề, quyết định tạm dừng hưởng trợ cấp thất nghiệp, quyết định tiếp tục hưởng trợ cấp thất nghiệp (nếu có);\nđ) Bản chụp thông báo về việc tìm kiếm việc làm hằng tháng (nếu có), các giấy tờ khác có trong hồ sơ hưởng trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/98",
+    "lookUpId": "lookUp/35",
+    "keyphrase": "",
+    "content": "4. Trong thời hạn 02 ngày làm việc kể từ ngày cung cấp hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp cho người lao động theo quy định tại Khoản 2 Điều này, trung tâm dịch vụ việc làm nơi người lao động chuyển đi gửi thông báo về việc chuyển nơi hưởng trợ cấp thất nghiệp cho Bảo hiểm xã hội cấp tỉnh để dừng việc chi trả trợ cấp thất nghiệp theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.",
+    "references": []
+  },
+  {
+    "id": "rule/99",
+    "lookUpId": "lookUp/35",
+    "keyphrase": "",
+    "content": "7. Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp do người lao động chuyển đến, trung tâm dịch vụ việc làm gửi văn bản đề nghị Bảo hiểm xã hội cấp tỉnh nơi chuyển đến để tiếp tục thực hiện việc chi trả trợ cấp thất nghiệp và cấp thẻ bảo hiểm y tế cho người lao động kèm theo bản chụp quyết định hưởng trợ cấp thất nghiệp của người lao động. Văn bản đề nghị Bảo hiểm xã hội cấp tỉnh theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định.\n7a. Trường hợp người lao động đã nhận hồ sơ chuyển nơi hưởng trợ cấp thất nghiệp nhưng chưa nộp cho trung tâm dịch vụ việc làm nơi chuyển đến và không có nhu cầu chuyển nơi hưởng trợ cấp thất nghiệp nữa thì người lao động phải nộp lại giấy giới thiệu chuyển nơi hưởng trợ cấp thất nghiệp cho trung tâm dịch vụ việc làm nơi chuyển đi. Trong thời hạn 03 ngày làm việc kể từ ngày nhận lại giấy giới thiệu chuyển nơi hưởng trợ cấp thất nghiệp, trung tâm dịch vụ việc làm gửi văn bản đề nghị cơ quan bảo hiểm xã hội cấp tỉnh để tiếp tục thực hiện việc chi trả trợ cấp thất nghiệp và cấp thẻ bảo hiểm y tế cho người lao động.\n7b. Thông báo về việc tìm kiếm việc làm của người lao động trong thời gian chuyển nơi hưởng trợ cấp thất nghiệp thực hiện theo hướng dẫn của Bộ Lao động - Thương binh và Xã hội.",
+    "references": []
+  },
+  {
+    "id": "rule/100",
+    "lookUpId": "lookUp/35",
+    "keyphrase": "",
+    "content": "8. Tổ chức bảo hiểm xã hội nơi người lao động chuyển đến hưởng trợ cấp thất nghiệp thực hiện chi trả trợ cấp thất nghiệp và cấp thẻ bảo hiểm y tế cho người lao động theo quy định của pháp luật.",
+    "references": []
+  },
+  {
+    "id": "rule/101",
+    "lookUpId": "lookUp/36",
+    "keyphrase": "",
+    "content": "Người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp bị chấm dứt hợp đồng lao động hoặc hợp đồng làm việc mà có nhu cầu tìm kiếm việc làm được tư vấn, giới thiệu việc làm miễn phí.",
+    "references": ["rule/10"]
+  },
+  {
+    "id": "rule/102",
+    "lookUpId": "lookUp/37",
+    "keyphrase": "",
+    "content": "1. Người lao động quy định tại Khoản 1 Điều 43 Luật Việc làm đang đóng bảo hiểm thất nghiệp bị chấm dứt hợp đồng lao động hoặc hợp đồng làm việc được tư vấn, giới thiệu việc làm miễn phí thông qua trung tâm dịch vụ việc làm.",
+    "references": ["rule/10"]
+  },
+  {
+    "id": "rule/103",
+    "lookUpId": "lookUp/37",
+    "keyphrase": "",
+    "content": "2. Kinh phí thực hiện tư vấn, giới thiệu việc làm của trung tâm dịch vụ việc làm được giao khoán theo số lượng người nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp của năm liền trước và thực hiện thanh quyết toán theo quy định trên cơ sở thực tế số lượng người nộp hồ sơ hưởng trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/104",
+    "lookUpId": "lookUp/37",
+    "keyphrase": "",
+    "content": "3. Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định giá dịch vụ tư vấn, giới thiệu việc làm từ Quỹ bảo hiểm thất nghiệp cho người lao động theo quy định tại Điều 54 Luật Việc làm.",
+    "references": ["lookUp/36"]
+  },
+  {
+    "id": "rule/105",
+    "lookUpId": "lookUp/38",
+    "keyphrase": "",
+    "content": "1. Người lao động ghi đầy đủ các thông tin vào phiếu tư vấn, giới thiệu việc làm theo mẫu do Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định và nộp trực tiếp cho trung tâm dịch vụ việc làm.",
+    "references": []
+  },
+  {
+    "id": "rule/106",
+    "lookUpId": "lookUp/38",
+    "keyphrase": "",
+    "content": "2. Trung tâm dịch vụ việc làm thực hiện tư vấn, giới thiệu việc làm trên cơ sở nhu cầu, khả năng của người lao động và nhu cầu của thị trường lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/107",
+    "lookUpId": "lookUp/38",
+    "keyphrase": "",
+    "content": "3. Trung tâm dịch vụ việc làm bố trí nhân sự và cơ sở vật chất để tổ chức thực hiện tư vấn, giới thiệu việc làm.",
+    "references": []
+  },
+  {
+    "id": "rule/108",
+    "lookUpId": "lookUp/39",
+    "keyphrase": "",
+    "content": "1. Người lao động ghi đầy đủ các thông tin cá nhân, nhu cầu tư vấn, nhu cầu giới thiệu việc làm vào phiếu tư vấn, giới thiệu việc làm theo Mẫu số 01 ban hành kèm theo Thông tư này và nộp trực tiếp cho trung tâm dịch vụ việc làm thuộc Sở Lao động – Thương binh và Xã hội tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là trung tâm dịch vụ việc làm).",
+    "references": []
+  },
+  {
+    "id": "rule/109",
+    "lookUpId": "lookUp/39",
+    "keyphrase": "",
+    "content": "2. Trung tâm dịch vụ việc làm có trách nhiệm tiếp nhận phiếu tư vấn, giới thiệu việc làm và căn cứ vào nhu cầu, khả năng của người lao động, nhu cầu tuyển lao động của người sử dụng lao động để kết nối việc làm phù hợp với người lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/110",
+    "lookUpId": "lookUp/39",
+    "keyphrase": "",
+    "content": "3. Trung tâm dịch vụ việc làm gửi cho người lao động Phiếu giới thiệu việc làm theo Mẫu số 02 ban hành kèm theo Thông tư này để người lao động tham gia dự tuyển lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/111",
+    "lookUpId": "lookUp/39",
+    "keyphrase": "",
+    "content": "4. Trung tâm dịch vụ việc làm có trách nhiệm theo dõi kết quả dự tuyển lao động để kịp thời hỗ trợ người lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/112",
+    "lookUpId": "lookUp/40",
+    "keyphrase": "",
+    "content": "Người lao động đang hưởng trợ cấp thất nghiệp được xác định là từ chối nhận việc làm mà không có lý do chính đáng khi thuộc một trong các trường hợp sau:\n1. Người lao động được trung tâm dịch vụ việc làm giới thiệu việc làm phù hợp với ngành nghề, trình độ được đào tạo mà người lao động đã ghi theo Mẫu số 01 ban hành kèm theo Thông tư này nhưng không đến tham gia dự tuyển lao động.\n2. Người lao động được trung tâm dịch vụ việc làm giới thiệu việc làm mà người lao động đó đã từng làm nhưng không đến tham gia dự tuyển lao động.\n3. Người lao động đã tham gia dự tuyển lao động theo giới thiệu của trung tâm dịch vụ việc làm nơi đang hưởng trợ cấp thất nghiệp và có thông báo trúng tuyển của người sử dụng lao động nhưng không nhận việc làm đã trúng tuyển, trừ trường hợp việc làm đó không đúng như thông báo tuyển lao động của người sử dụng lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/113",
+    "lookUpId": "lookUp/41",
+    "keyphrase": "",
+    "content": "Người lao động quy định tại khoản 1 Điều 43 của Luật này đang đóng bảo hiểm thất nghiệp được hỗ trợ học nghề khi có đủ các điều kiện sau đây:\n1. Đủ các điều kiện quy định tại các khoản 1, 3 và 4 Điều 49 của Luật này;\n2. Đã đóng bảo hiểm thất nghiệp từ đủ 09 tháng trở lên trong thời gian 24 tháng trước khi chấm dứt hợp đồng lao động hoặc hợp đồng làm việc theo quy định của pháp luật.",
+    "references": ["rule/10", "lookUp/06"]
+  },
+  {
+    "id": "rule/114",
+    "lookUpId": "lookUp/42",
+    "keyphrase": "thời gian hỗ trợ học nghề",
+    "content": "1. Thời gian hỗ trợ học nghề theo thời gian học nghề thực tế nhưng không quá 06 tháng.",
+    "references": []
+  },
+  {
+    "id": "rule/115",
+    "lookUpId": "lookUp/42",
+    "keyphrase": "mức hỗ trợ học nghề",
+    "content": "2. Mức hỗ trợ học nghề theo quy định của Thủ tướng Chính phủ.",
+    "references": []
+  },
+  {
+    "id": "rule/116",
+    "lookUpId": "lookUp/43",
+    "keyphrase": "",
+    "content": "1. Hồ sơ đề nghị hỗ trợ học nghề đối với người lao động đang chờ kết quả giải quyết hưởng trợ cấp thất nghiệp hoặc đang hưởng trợ cấp thất nghiệp mà có nhu cầu học nghề tại địa phương nơi đang chờ kết quả hoặc đang hưởng trợ cấp thất nghiệp là đề nghị hỗ trợ học nghề theo Mẫu số 03 ban hành kèm theo Nghị định này.",
+    "references": []
+  },
+  {
+    "id": "rule/117",
+    "lookUpId": "lookUp/43",
+    "keyphrase": "",
+    "content": "2. Hồ sơ đề nghị hỗ trợ học nghề đối với người lao động đang hưởng trợ cấp thất nghiệp mà có nhu cầu học nghề tại địa phương không phải nơi đang hưởng trợ cấp thất nghiệp bao gồm đề nghị hỗ trợ học nghề theo quy định tại khoản 1 Điều này và quyết định về việc hưởng trợ cấp thất nghiệp. Quyết định về việc hưởng trợ cấp thất nghiệp là bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu.",
+    "references": []
+  },
+  {
+    "id": "rule/118",
+    "lookUpId": "lookUp/43",
+    "keyphrase": "",
+    "content": "3. Hồ sơ đề nghị hỗ trợ học nghề đối với người lao động không thuộc trường hợp theo quy định tại khoản 1, khoản 2 Điều này, bao gồm:\na) Đề nghị hưởng trợ cấp thất nghiệp;\nb) Đề nghị hỗ trợ học nghề theo quy định tại khoản 1 Điều này;\nc) Bản chính hoặc bản sao có chứng thực hoặc bản sao kèm theo bản chính để đối chiếu của một trong các giấy tờ theo quy định tại khoản 2 Điều 16 Nghị định số 28/2015/NĐ-CP đã được sửa đổi, bổ sung tại khoản 6 Điều 1 Nghị định này;\nd) Sổ bảo hiểm xã hội.\nTrường hợp người lao động đã nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp nhưng không đáp ứng đủ điều kiện hưởng thì hồ sơ đề nghị hỗ trợ học nghề là đề nghị hỗ trợ học nghề theo quy định tại khoản 1 Điều này và thông báo của trung tâm dịch vụ việc làm về việc người lao động không đáp ứng đủ điều kiện hưởng trợ cấp thất nghiệp.",
+    "references": ["rule/116", "rule/117", "rule/54"]
+  },
+  {
+    "id": "rule/119",
+    "lookUpId": "lookUp/44",
+    "keyphrase": "",
+    "content": "1. Người lao động đáp ứng đủ điều kiện theo quy định tại Điều 55 Luật Việc làm có nhu cầu học nghề được hỗ trợ 01 lần để học 01 nghề tại cơ sở giáo dục nghề nghiệp, cơ sở giáo dục đại học có đăng ký hoạt động giáo dục nghề nghiệp trình độ cao đẳng, doanh nghiệp được thực hiện hoạt động giáo dục nghề nghiệp tham gia đào tạo nghề nghiệp cho người lao động tham gia bảo hiểm thất nghiệp (sau đây gọi chung là cơ sở đào tạo nghề nghiệp). Phương thức hỗ trợ kinh phí học nghề được thực hiện thông qua cơ sở đào tạo nghề nghiệp.",
+    "references": ["lookUp/41"]
+  },
+  {
+    "id": "rule/120",
+    "lookUpId": "lookUp/44",
+    "keyphrase": "",
+    "content": "2. Người lao động có nhu cầu học nghề thì phải nộp 01 bộ hồ sơ đề nghị hỗ trợ học nghề cho trung tâm dịch vụ việc làm\na) Hồ sơ đề nghị hỗ trợ học nghề theo quy định tại khoản 1 Điều 24 đã được sửa đổi, bổ sung tại khoản 12 Điều 1 Nghị định này nộp cho trung tâm dịch vụ việc làm nơi đang giải quyết hưởng trợ cấp thất nghiệp hoặc nơi người lao động đang hưởng trợ cấp thất nghiệp.\nb) Hồ sơ đề nghị hỗ trợ học nghề theo quy định tại khoản 2, khoản 3 Điều 24 đã được sửa đổi, bổ sung tại khoản 12 Điều 1 Nghị định này nộp cho trung tâm dịch vụ việc làm nơi người lao động có nhu cầu học nghề.",
+    "references": ["lookUp/43"]
+  },
+  {
+    "id": "rule/121",
+    "lookUpId": "lookUp/44",
+    "keyphrase": "",
+    "content": "3. Trung tâm dịch vụ việc làm có trách nhiệm xem xét hồ sơ đề nghị hỗ trợ học nghề và trao cho người lao động phiếu hẹn trả kết quả theo Mẫu số 01 ban hành kèm theo Nghị định này.",
+    "references": []
+  },
+  {
+    "id": "rule/122",
+    "lookUpId": "lookUp/44",
+    "keyphrase": "",
+    "content": "4. Trong thời hạn 20 ngày làm việc kể từ ngày nhận đủ hồ sơ đề nghị hỗ trợ học nghề, trung tâm dịch vụ việc làm có trách nhiệm xác định cụ thể nghề, thời gian hỗ trợ học nghề, thời điểm bắt đầu học nghề, mức hỗ trợ học nghề, cơ sở đào tạo nghề nghiệp để trình Giám đốc Sở Lao động - Thương binh và Xã hội quyết định việc hỗ trợ học nghề cho người lao động.\nThời điểm bắt đầu học nghề của người lao động là thời điểm sau khi ban hành quyết định về việc hỗ trợ học nghề nhưng không quá 03 tháng kể từ ngày ban hành quyết định về việc hỗ trợ học nghề đối với trường hợp không thuộc diện đang hưởng trợ cấp thất nghiệp và không quá 03 tháng kể từ ngày hết thời hạn hưởng trợ cấp thất nghiệp theo quyết định về việc hưởng trợ cấp thất nghiệp đối với trường hợp đang hưởng trợ cấp thất nghiệp. Trường hợp người lao động có nhu cầu tham gia khóa đào tạo nghề đang được cơ sở đào tạo nghề nghiệp thực hiện thì người lao động vẫn được hỗ trợ tham gia khóa học nghề này nếu thời điểm bắt đầu đào tạo nghề tính đến thời điểm ban hành quyết định về việc hỗ trợ học nghề không quá 01 tháng và cơ sở đào tạo nghề nghiệp đảm bảo dạy bù đầy đủ kiến thức của khoảng thời gian trước khi người lao động tham gia học nghề.\nQuyết định về việc hỗ trợ học nghề thực hiện theo Mẫu số 04 ban hành kèm theo Nghị định này được trung tâm dịch vụ việc làm gửi: 01 bản đến cơ quan bảo hiểm xã hội cấp tỉnh để thực hiện chi trả cho cơ sở đào tạo nghề nghiệp; 01 bản đến cơ sở đào tạo nghề nghiệp để thực hiện việc đào tạo nghề cho người lao động; 01 bản đến người lao động.\nTrường hợp người lao động không được hỗ trợ học nghề thì trung tâm dịch vụ việc làm phải trả lời bằng văn bản và nêu rõ lý do.\nTrường hợp người lao động đã có quyết định hỗ trợ học nghề nhưng chưa tham gia khóa đào tạo nghề hoặc đang tham gia khóa đào tạo nghề mà bị chấm dứt hưởng trợ cấp thất nghiệp thì vẫn được hỗ trợ học nghề theo quyết định của Giám đốc Sở Lao động - Thương binh và Xã hội về việc hỗ trợ học nghề.",
+    "references": []
+  },
+  {
+    "id": "rule/123",
+    "lookUpId": "lookUp/44",
+    "keyphrase": "",
+    "content": "5. Trong 03 ngày làm việc được ghi trên phiếu hẹn trả kết quả, nếu người lao động không đến nhận quyết định về việc hỗ trợ học nghề hoặc không ủy quyền cho người khác đến nhận quyết định và không thông báo cho trung tâm dịch vụ việc làm về lý do không thể đến nhận thì được coi là không có nhu cầu hỗ trợ học nghề. Trong thời hạn 02 ngày làm việc kể từ ngày người lao động hết hạn nhận quyết định theo phiếu hẹn trả kết quả, trung tâm dịch vụ việc làm trình Giám đốc Sở Lao động - Thương binh và Xã hội ban hành quyết định về việc hủy quyết định hỗ trợ học nghề của người lao động theo Mẫu số 05 ban hành kèm theo Nghị định này. Quyết định về việc hủy quyết định hỗ trợ học nghề được trung tâm dịch vụ việc làm gửi: 01 bản đến cơ quan bảo hiểm xã hội cấp tỉnh để không thực hiện chi trả tiền hỗ trợ học nghề cho cơ sở đào tạo nghề nghiệp; 01 bản đến cơ sở đào tạo nghề nghiệp để không thực hiện việc dạy nghề cho người lao động; 01 bản đến người lao động.",
+    "references": []
+  },
+  {
+    "id": "rule/124",
+    "lookUpId": "lookUp/44",
+    "keyphrase": "",
+    "content": "6. Cơ sở đào tạo nghề nghiệp tổ chức dạy nghề cho người lao động theo quyết định về việc hỗ trợ học nghề của Giám đốc Sở Lao động - Thương binh và Xã hội và hằng tháng có trách nhiệm lập danh sách có chữ ký của người lao động đang học nghề chuyển cho cơ quan bảo hiểm xã hội để thanh quyết toán kinh phí hỗ trợ học nghề.",
+    "references": []
+  },
+  {
+    "id": "rule/125",
+    "lookUpId": "lookUp/45",
+    "keyphrase": "mức đúng quỹ bảo hiểm thất nghiệp",
+    "content": "1. Mức đóng và trách nhiệm đóng bảo hiểm thất nghiệp được quy định như sau:\na) Người lao động đóng bằng 1% tiền lương tháng;\nb) Người sử dụng lao động đóng bằng 1% quỹ tiền lương tháng của những người lao động đang tham gia bảo hiểm thất nghiệp;\nc) Nhà nước hỗ trợ tối đa 1% quỹ tiền lương tháng đóng bảo hiểm thất nghiệp của những người lao động đang tham gia bảo hiểm thất nghiệp và do ngân sách trung ương bảo đảm.",
+    "references": []
+  },
+  {
+    "id": "rule/126",
+    "lookUpId": "lookUp/45",
+    "keyphrase": "nguồn hình thành quỹ bảo hiểm thất nghiệp",
+    "content": "2. Nguồn hình thành Quỹ bảo hiểm thất nghiệp bao gồm:\na) Các khoản đóng và hỗ trợ theo quy định tại khoản 1 Điều này;\nb) Tiền sinh lời của hoạt động đầu tư từ quỹ;\nc) Nguồn thu hợp pháp khác.",
+    "references": []
+  },
+  {
+    "id": "rule/127",
+    "lookUpId": "lookUp/45",
+    "keyphrase": "sử dụng quỹ bảo hiểm thất nghiệp",
+    "content": "3. Quỹ bảo hiểm thất nghiệp được sử dụng như sau:\na) Chi trả trợ cấp thất nghiệp;\nb) Hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động;\nc) Hỗ trợ học nghề;\nd) Hỗ trợ tư vấn, giới thiệu việc làm;\nđ) Đóng bảo hiểm y tế cho người hưởng trợ cấp thất nghiệp;\ne) Chi phí quản lý bảo hiểm thất nghiệp thực hiện theo quy định của Luật bảo hiểm xã hội;",
+    "references": []
+  },
+  {
+    "id": "rule/128",
+    "lookUpId": "lookUp/46",
+    "keyphrase": "",
+    "content": "1. Người lao động thuộc đối tượng thực hiện chế độ tiền lương do Nhà nước quy định thì tiền lương tháng đóng bảo hiểm thất nghiệp là tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc thực hiện theo quy định của Luật bảo hiểm xã hội. Trường hợp mức tiền lương tháng đóng bảo hiểm thất nghiệp cao hơn hai mươi tháng lương cơ sở thì mức tiền lương tháng đóng bảo hiểm thất nghiệp bằng hai mươi tháng lương cơ sở tại thời điểm đóng bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/129",
+    "lookUpId": "lookUp/46",
+    "keyphrase": "",
+    "content": "2. Người lao động đóng bảo hiểm thất nghiệp theo chế độ tiền lương do người sử dụng lao động quyết định thì tiền lương tháng đóng bảo hiểm thất nghiệp là tiền lương làm căn cứ đóng bảo hiểm xã hội bắt buộc thực hiện theo quy định của Luật bảo hiểm xã hội. Trường hợp mức tiền lương tháng đóng bảo hiểm thất nghiệp cao hơn hai mươi tháng lương tối thiểu vùng thì mức tiền lương tháng đóng bảo hiểm thất nghiệp bằng hai mươi tháng lương tối thiểu vùng theo quy định của Bộ luật lao động tại thời điểm đóng bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/130",
+    "lookUpId": "lookUp/47",
+    "keyphrase": "",
+    "content": "1. Hằng tháng, người sử dụng lao động đóng bảo hiểm thất nghiệp theo mức quy định tại Điểm b Khoản 1 Điều 57 Luật Việc làm và trích tiền lương của từng người lao động theo mức quy định tại Điểm a Khoản 1 Điều 57 Luật Việc làm để đóng cùng một lúc vào Quỹ bảo hiểm thất nghiệp.",
+    "references": ["rule/125"]
+  },
+  {
+    "id": "rule/131",
+    "lookUpId": "lookUp/47",
+    "keyphrase": "",
+    "content": "2. Nguồn đóng bảo hiểm thất nghiệp theo mức quy định tại Điểm b Khoản 1 Điều 57 Luật Việc làm của người sử dụng lao động như sau:\na) Người sử dụng lao động là cơ quan, đơn vị, tổ chức được ngân sách nhà nước bảo đảm toàn bộ kinh phí hoạt động thường xuyên thì ngân sách nhà nước bảo đảm toàn bộ nguồn đóng bảo hiểm thất nghiệp và được bố trí trong dự toán chi thường xuyên hàng năm của cơ quan, đơn vị, tổ chức theo quy định của pháp luật về phân cấp quản lý ngân sách nhà nước.\nb) Người sử dụng lao động là cơ quan, đơn vị, tổ chức được ngân sách nhà nước bảo đảm một phần kinh phí hoạt động thường xuyên thì ngân sách nhà nước bảo đảm nguồn đóng bảo hiểm thất nghiệp cho số người hưởng lương từ ngân sách nhà nước và được bố trí trong dự toán chi thường xuyên hằng năm của cơ quan, đơn vị, tổ chức theo quy định của pháp luật về phân cấp quản lý ngân sách nhà nước. Phần bảo hiểm thất nghiệp phải đóng còn lại, người sử dụng lao động tự bảo đảm theo quy định tại Điểm c và Điểm d Khoản này.\nc) Người sử dụng lao động là doanh nghiệp, đơn vị, tổ chức có hoạt động sản xuất, kinh doanh, dịch vụ thì khoản đóng bảo hiểm thất nghiệp được hạch toán vào chi phí sản xuất, kinh doanh, dịch vụ trong kỳ.\nd) Người sử dụng lao động là cơ quan, đơn vị, tổ chức khác thì khoản đóng bảo hiểm thất nghiệp được sử dụng từ nguồn kinh phí hoạt động của cơ quan, đơn vị, tổ chức theo quy định của pháp luật.",
+    "references": ["rule/125"]
+  },
+  {
+    "id": "rule/132",
+    "lookUpId": "lookUp/48",
+    "keyphrase": "",
+    "content": "1. Nhận sổ bảo hiểm xã hội có xác nhận đầy đủ về việc đóng bảo hiểm thất nghiệp khi chấm dứt hợp đồng lao động hoặc hợp đồng làm việc.",
+    "references": []
+  },
+  {
+    "id": "rule/133",
+    "lookUpId": "lookUp/48",
+    "keyphrase": "",
+    "content": "2. Được hưởng các chế độ bảo hiểm thất nghiệp theo quy định tại Điều 42 Luật Việc làm.",
+    "references": ["lookUp/02"]
+  },
+  {
+    "id": "rule/134",
+    "lookUpId": "lookUp/48",
+    "keyphrase": "",
+    "content": "3. Được ủy quyền cho người khác nộp hồ sơ hưởng trợ cấp thất nghiệp theo quy định tại Khoản 2 Điều 17, nhận quyết định hưởng trợ cấp thất nghiệp theo quy định tại Khoản 3 Điều 18 Nghị định này.",
+    "references": ["rule/57", "rule/66"]
+  },
+  {
+    "id": "rule/135",
+    "lookUpId": "lookUp/48",
+    "keyphrase": "",
+    "content": "4. Yêu cầu người sử dụng lao động cung cấp thông tin về việc đóng bảo hiểm thất nghiệp; yêu cầu trung tâm dịch vụ việc làm, tổ chức bảo hiểm xã hội cung cấp thông tin liên quan đến bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/136",
+    "lookUpId": "lookUp/48",
+    "keyphrase": "",
+    "content": "5. Khiếu nại, tố cáo về bảo hiểm thất nghiệp theo quy định của pháp luật.",
+    "references": []
+  },
+  {
+    "id": "rule/137",
+    "lookUpId": "lookUp/48",
+    "keyphrase": "",
+    "content": "6. Các quyền khác theo quy định của pháp luật.",
+    "references": []
+  },
+  {
+    "id": "rule/138",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "1. Đóng bảo hiểm thất nghiệp đủ và đúng theo quy định tại Điểm a Khoản 1 Điều 57 Luật Việc làm.",
+    "references": ["rule/125"]
+  },
+  {
+    "id": "rule/139",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "2. Thực hiện đúng quy định về việc tham gia bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/140",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "3. Bảo quản, sử dụng sổ bảo hiểm xã hội, thẻ bảo hiểm y tế theo quy định.",
+    "references": []
+  },
+  {
+    "id": "rule/141",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "4. Người lao động giao kết nhiều hợp đồng lao động khi chấm dứt hợp đồng lao động đang tham gia bảo hiểm thất nghiệp phải thông báo với người sử dụng lao động kế tiếp để tiếp tục tham gia bảo hiểm thất nghiệp theo quy định.",
+    "references": []
+  },
+  {
+    "id": "rule/142",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "5. Nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp, hỗ trợ học nghề theo quy định tại trung tâm dịch vụ việc làm khi có nhu cầu.",
+    "references": []
+  },
+  {
+    "id": "rule/143",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "6. Hằng tháng thông báo với trung tâm dịch vụ việc làm về việc tìm kiếm việc làm trong thời gian đang hưởng trợ cấp thất nghiệp theo quy định.",
+    "references": []
+  },
+  {
+    "id": "rule/144",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "7. Nhận việc làm hoặc tham gia khóa học nghề phù hợp khi được trung tâm dịch vụ việc làm giới thiệu trong thời gian hưởng trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/145",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "8. Trong thời hạn 15 ngày làm việc kể từ ngày nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp nếu người lao động tìm được việc làm thì phải thông báo ngay cho trung tâm dịch vụ việc làm nơi nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/146",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "9. Nhận thông báo về việc không được hưởng trợ cấp thất nghiệp hoặc không được hỗ trợ học nghề, quyết định về việc hưởng trợ cấp thất nghiệp, quyết định về việc hủy quyết định hưởng trợ cấp thất nghiệp, quyết định về việc hỗ trợ học nghề, quyết định về việc tạm dừng hưởng trợ cấp thất nghiệp, quyết định về việc tiếp tục hưởng trợ cấp thất nghiệp, quyết định về việc chấm dứt hưởng trợ cấp thất nghiệp, quyết định về việc bảo lưu thời gian đóng bảo hiểm thất nghiệp theo quy định.",
+    "references": []
+  },
+  {
+    "id": "rule/147",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "10. Thông báo theo quy định với trung tâm dịch vụ việc làm khi thuộc các trường hợp chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại các Điểm b, c, d, g, h, l và n Khoản 1 Điều 21 Nghị định này.",
+    "references": ["rule/88"]
+  },
+  {
+    "id": "rule/148",
+    "lookUpId": "lookUp/49",
+    "keyphrase": "",
+    "content": "11. Nộp lại thẻ bảo hiểm y tế cho tổ chức bảo hiểm xã hội khi thuộc các trường hợp chấm dứt hưởng trợ cấp thất nghiệp theo quy định tại các Điểm b, c, d, đ, e, g, h, i, l và n Khoản 1 Điều 21 Nghị định này và trong trường hợp chuyển nơi hưởng trợ cấp thất nghiệp theo quy định tại Điều 22 Nghị định này.",
+    "references": ["rule/88", "lookUp/35"]
+  },
+  {
+    "id": "rule/149",
+    "lookUpId": "lookUp/50",
+    "keyphrase": "",
+    "content": "1. Được hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo quy định.",
+    "references": []
+  },
+  {
+    "id": "rule/150",
+    "lookUpId": "lookUp/50",
+    "keyphrase": "",
+    "content": "2. Từ chối thực hiện các yêu cầu không đúng quy định của pháp luật về bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/151",
+    "lookUpId": "lookUp/50",
+    "keyphrase": "",
+    "content": "3. Khiếu nại, tố cáo về bảo hiểm thất nghiệp theo quy định của pháp luật.",
+    "references": []
+  },
+  {
+    "id": "rule/152",
+    "lookUpId": "lookUp/50",
+    "keyphrase": "",
+    "content": "4. Các quyền khác theo quy định của pháp luật.",
+    "references": []
+  },
+  {
+    "id": "rule/153",
+    "lookUpId": "lookUp/51",
+    "keyphrase": "",
+    "content": "1. Chủ trì, phối hợp với tổ chức công đoàn cơ sở để thông tin, tuyên truyền, phổ biến chính sách, pháp luật về bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/154",
+    "lookUpId": "lookUp/51",
+    "keyphrase": "",
+    "content": "2. Xác định đối tượng tham gia bảo hiểm thất nghiệp, thực hiện trình tự, thủ tục tham gia bảo hiểm thất nghiệp, đóng bảo hiểm thất nghiệp đúng, đủ và kịp thời theo quy định của pháp luật.",
+    "references": []
+  },
+  {
+    "id": "rule/155",
+    "lookUpId": "lookUp/51",
+    "keyphrase": "",
+    "content": "3. Bảo quản hồ sơ tham gia bảo hiểm thất nghiệp của người lao động trong thời gian người lao động làm việc tại đơn vị. Xuất trình các tài liệu, hồ sơ và cung cấp thông tin liên quan theo yêu cầu của cơ quan nhà nước có thẩm quyền khi có kiểm tra, thanh tra về bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/156",
+    "lookUpId": "lookUp/51",
+    "keyphrase": "",
+    "content": "4. Cung cấp thông tin về việc đóng bảo hiểm thất nghiệp trong thời hạn 02 ngày làm việc kể từ ngày người lao động yêu cầu.",
+    "references": []
+  },
+  {
+    "id": "rule/157",
+    "lookUpId": "lookUp/51",
+    "keyphrase": "",
+    "content": "5. Cung cấp bản sao hợp đồng lao động hoặc hợp đồng làm việc hoặc xác nhận về việc đơn phương chấm dứt hợp đồng lao động hoặc hợp đồng làm việc cho người lao động chậm nhất trong thời hạn 02 ngày làm việc kể từ ngày người lao động chấm dứt hợp đồng lao động hoặc hợp đồng làm việc. Thực hiện thủ tục xác nhận về việc đóng bảo hiểm thất nghiệp cho người lao động để người lao động hoàn thiện hồ sơ hưởng bảo hiểm thất nghiệp theo quy định.",
+    "references": []
+  },
+  {
+    "id": "rule/158",
+    "lookUpId": "lookUp/51",
+    "keyphrase": "",
+    "content": "6. Thông báo với trung tâm dịch vụ việc làm nơi đặt trụ sở làm việc của người sử dụng lao động khi có biến động lao động làm việc tại đơn vị theo hướng dẫn của Bộ trưởng Bộ Lao động - Thương binh và Xã hội. Đối với các đơn vị thuộc lực lượng vũ trang, Bộ trưởng Bộ Lao động - Thương binh và Xã hội chủ trì, phối hợp với Bộ trưởng Bộ Quốc phòng và Bộ trưởng Bộ Công an hướng dẫn thực hiện.",
+    "references": []
+  },
+  {
+    "id": "rule/159",
+    "lookUpId": "lookUp/51",
+    "keyphrase": "",
+    "content": "7. Trước ngày 15 tháng 01 hằng năm báo cáo Sở Lao động - Thương binh và Xã hội về tình hình tham gia bảo hiểm thất nghiệp của năm trước.",
+    "references": []
+  },
+  {
+    "id": "rule/160",
+    "lookUpId": "lookUp/51",
+    "keyphrase": "",
+    "content": "8. Tổ chức triển khai việc đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo đúng phương án được cơ quan có thẩm quyền phê duyệt.",
+    "references": []
+  },
+  {
+    "id": "rule/161",
+    "lookUpId": "lookUp/51",
+    "keyphrase": "",
+    "content": "9. Sử dụng người lao động đã được đào tạo, bồi dưỡng nâng cao trình độ kỹ năng nghề theo phương án đã được phê duyệt và báo cáo kết quả thực hiện về Sở Lao động - Thương binh và Xã hội trong thời hạn 30 ngày kể từ ngày kết thúc khóa đào tạo.",
+    "references": []
+  },
+  {
+    "id": "rule/162",
+    "lookUpId": "lookUp/51",
+    "keyphrase": "",
+    "content": "10. Thực hiện các trách nhiệm khác theo quy định của pháp luật.",
+    "references": []
+  },
+  {
+    "id": "rule/163",
+    "lookUpId": "lookUp/52",
+    "keyphrase": "",
+    "content": "1. Mức hỗ trợ học nghề cho người lao động tham gia bảo hiểm thất nghiệp tối đa 01 (một) triệu đồng/người/tháng. Mức hỗ trợ cụ thể được tính theo tháng, tùy theo từng nghề, mức thu học phí và thời gian học nghề thực tế theo quy định của cơ sở dạy nghề.\nTrường hợp người lao động tham gia khóa học nghề có những ngày lẻ không đủ tháng theo quy định của cơ sở dạy nghề thì số ngày lẻ đó được tính tròn là 01 (một) tháng để xác định mức hỗ trợ học nghề.",
+    "references": []
+  },
+  {
+    "id": "rule/164",
+    "lookUpId": "lookUp/52",
+    "keyphrase": "",
+    "content": "2. Đối với người lao động tham gia bảo hiểm thất nghiệp tham gia khóa học nghề có mức chi phí học nghề cao hơn mức hỗ trợ học nghề theo quy định tại Khoản 1 Điều này thì phần vượt quá mức hỗ trợ học nghề do người lao động tự chi trả.",
+    "references": ["rule/164"]
+  },
+  {
+    "id": "rule/165",
+    "lookUpId": "lookUp/53",
+    "keyphrase": "",
+    "content": "1. Người lao động đang tham gia bảo hiểm thất nghiệp tại thời điểm ngày 30 tháng 9 năm 2021 (có tên trong danh sách tham gia bảo hiểm thất nghiệp của cơ quan bảo hiểm xã hội), không bao gồm các trường hợp sau:\na) Người lao động đang làm việc tại cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị vũ trang nhân dân.\nb) Người lao động đang làm việc tại đơn vị sự nghiệp công lập do ngân sách nhà nước bảo đảm chi thường xuyên theo quy định tại Nghị định số 60/2021/NĐ-CP ngày 21 tháng 6 năm 2021 của Chính phủ quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập và các quy định pháp luật hiện hành về tự chủ tài chính của đơn vị sự nghiệp công lập.",
+    "references": ["lookUp/54"]
+  },
+  {
+    "id": "rule/166",
+    "lookUpId": "lookUp/53",
+    "keyphrase": "",
+    "content": "2. Người lao động đã dừng tham gia bảo hiểm thất nghiệp do chấm dứt hợp đồng lao động hoặc hợp đồng làm việc trong khoảng thời gian từ ngày 01 tháng 01 năm 2020 đến hết ngày 30 tháng 9 năm 2021 có thời gian đóng bảo hiểm thất nghiệp được bảo lưu theo quy định của pháp luật về việc làm, không bao gồm người đã có quyết định hưởng lương hưu hàng tháng.",
+    "references": []
+  },
+  {
+    "id": "rule/167",
+    "lookUpId": "lookUp/53",
+    "keyphrase": "",
+    "content": "3. Không áp dụng đối với đối tượng tự nguyện không nhận hỗ trợ.",
+    "references": []
+  },
+  {
+    "id": "rule/168",
+    "lookUpId": "lookUp/54",
+    "keyphrase": "",
+    "content": "1. Đơn vị sự nghiệp công lập do cơ quan có thẩm quyền của Nhà nước thành lập theo quy định của pháp luật, có tư cách pháp nhân, có con dấu, tài khoản riêng theo quy định của pháp luật, cung cấp dịch vụ sự nghiệp công hoặc phục vụ quản lý nhà nước (sau đây gọi là đơn vị sự nghiệp công).",
+    "references": []
+  },
+  {
+    "id": "rule/169",
+    "lookUpId": "lookUp/54",
+    "keyphrase": "2. Đơn vị sự nghiệp công trực thuộc Bộ Quốc phòng, Bộ Công an, Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam, Thông tấn xã Việt Nam; đơn vị sự nghiệp công thuộc đơn vị sự nghiệp công thực hiện theo quy định của Nghị định này và quy định pháp luật khác có liên quan.",
+    "content": "",
+    "references": []
+  },
+  {
+    "id": "rule/170",
+    "lookUpId": "lookUp/54",
+    "keyphrase": "",
+    "content": "3. Đơn vị sự nghiệp công thuộc tổ chức chính trị, tổ chức chính trị - xã hội được áp dụng quy định tại Nghị định này và các quy định của Đảng và của pháp luật khác có liên quan.",
+    "references": []
+  },
+  {
+    "id": "rule/171",
+    "lookUpId": "lookUp/54",
+    "keyphrase": "",
+    "content": "4. Đơn vị sự nghiệp công được thành lập theo Hiệp định và cam kết giữa Chính phủ Việt Nam với Chính phủ các nước hoặc tổ chức quốc tế thực hiện cơ chế tài chính theo cam kết, Điều ước quốc tế hoặc Quyết định đặc thù do Thủ tướng Chính phủ ban hành.",
+    "references": []
+  },
+  {
+    "id": "rule/172",
+    "lookUpId": "lookUp/53",
+    "keyphrase": "",
+    "content": "Người lao động tham gia bảo hiểm thất nghiệp trên cơ sở hợp đồng lao động/hợp đồng làm việc đã giao kết với người sử dụng lao động. Tại thời điểm ngày 30 tháng 9 năm 2021 người lao động chưa chấm dứt hợp đồng lao động/hợp đồng làm việc, có tên trong danh sách tham gia bảo hiểm thất nghiệp của cơ quan bảo hiểm xã hội nên vẫn được coi là đang tham gia bảo hiểm thất nghiệp và được hỗ trợ trên cơ sở thời gian đã đóng bảo hiểm thất nghiệp nhưng chưa hưởng trợ cấp thất nghiệp (bao gồm cả các trường hợp tạm hoãn hợp đồng lao động hoặc hợp đồng làm việc, nghỉ việc không hưởng lương, ngừng việc, việc hưởng chế độ thai sản,... trong thời gian từ ngày 01 tháng 01 năm 2020 đến ngày 30 tháng 9 năm 2021 cũng như trước ngày 01 tháng 01 năm 2020).",
+    "references": []
+  },
+  {
+    "id": "rule/173",
+    "lookUpId": "lookUp/55",
+    "keyphrase": "thời gian đóng bảo hiểm thất nghiệp làm căn cứ tính hỗ trợ cho người lao động bị ảnh hưởng của covid-19",
+    "content": "1. Căn cứ tính mức hỗ trợ: Trên cơ sở thời gian đã đóng bảo hiểm thất nghiệp của người lao động tại thời điểm ngày 30 tháng 9 năm 2021 nhưng chưa được tính hưởng trợ cấp thất nghiệp.\nTrường hợp người lao động đã nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp nhưng đến ngày 30 tháng 9 năm 2021 chưa có quyết định hưởng trợ cấp thất nghiệp thì tổng thời gian đóng bảo hiểm thất nghiệp chưa hưởng làm căn cứ để xác định mức hỗ trợ của người lao động là tổng thời gian đóng bảo hiểm thất nghiệp chưa hưởng tại thời điểm ngày 30 tháng 9 năm 2021.",
+    "references": []
+  },
+  {
+    "id": "rule/174",
+    "lookUpId": "lookUp/55",
+    "keyphrase": "mức hỗ trợ cho người lao động bị ảnh hưởng của covid-19",
+    "content": "2. Mức hỗ trợ\nHỗ trợ một lần bằng tiền, cụ thể như sau:\na) Thời gian đóng bảo hiểm thất nghiệp dưới 12 tháng: Hỗ trợ 1.800.000 đồng/người.\nb) Thời gian đóng bảo hiểm thất nghiệp từ đủ 12 tháng đến dưới 60 tháng: Hỗ trợ 2.100.000 đồng/người.\nc) Thời gian đóng bảo hiểm thất nghiệp từ đủ 60 tháng đến dưới 84 tháng: Hỗ trợ 2.400.000 đồng/người.\nd) Thời gian đóng bảo hiểm thất nghiệp từ đủ 84 tháng đến dưới 108 tháng: Hỗ trợ 2.650.000 đồng/người.\nđ) Thời gian đóng bảo hiểm thất nghiệp từ đủ 108 tháng đến dưới 132 tháng: Hỗ trợ 2.900.000 đồng/người.\ne) Thời gian đóng bảo hiểm thất nghiệp từ đủ 132 tháng trở lên: Hỗ trợ 3.300.000 đồng/người.",
+    "references": []
+  },
+  {
+    "id": "rule/175",
+    "lookUpId": "lookUp/56",
+    "keyphrase": "thủ tục thực hiện hỗ trợ đối với người lao động đang tham gia bảo hiểm thất nghiệp bị ảnh hưởng của covid-19",
+    "content": "1. Đối với người lao động đang tham gia bảo hiểm thất nghiệp\na) Cơ quan bảo hiểm xã hội lập danh sách người lao động đang tham gia bảo hiểm thất nghiệp theo Mẫu số 01, gửi người sử dụng lao động. Chậm nhất đến hết ngày 20 tháng 10 năm 2021, cơ quan bảo hiểm xã hội hoàn thành việc gửi danh sách đến tất cả người sử dụng lao động và công khai thông tin danh sách người lao động thuộc đối tượng được hỗ trợ trên trang thông tin điện tử của cơ quan bảo hiểm xã hội cấp tỉnh.\nb) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được danh sách do cơ quan bảo hiểm xã hội gửi đến, người sử dụng lao động công khai danh sách người lao động thuộc đối tượng được hỗ trợ để người lao động biết, đối chiếu, bổ sung thông tin (nếu có); lập và gửi danh sách người lao động có thông tin đúng, đủ và người lao động tự nguyện không nhận hỗ trợ theo Mẫu số 02 đến cơ quan bảo hiểm xã hội.\nNgười sử dụng lao động lập danh sách thông tin của người lao động cần điều chỉnh theo Mẫu số 03 (nếu có), gửi đến cơ quan bảo hiểm xã hội, kèm theo hồ sơ chứng minh thông tin điều chỉnh theo quy định pháp luật, chậm nhất đến hết ngày 10 tháng 11 năm 2021.\nc) Trong thời hạn 10 ngày làm việc kể từ ngày nhận được danh sách người lao động đúng, đủ thông tin và trong thời hạn 20 ngày kể từ ngày nhận được danh sách người lao động điều chỉnh thông tin do người sử dụng lao động gửi đến, cơ quan bảo hiểm xã hội chi trả tiền hỗ trợ cho người lao động. Khuyến khích chi trả thông qua tài khoản ngân hàng của người lao động.\nTrường hợp không chi trả hỗ trợ, cơ quan bảo hiểm xã hội thông báo bằng văn bản và nêu rõ lý do.",
+    "references": []
+  },
+  {
+    "id": "rule/176",
+    "lookUpId": "lookUp/56",
+    "keyphrase": "thủ tục thực hiện hỗ trợ đối với người lao động đã dừng tham gia bảo hiểm thất nghiệp bị ảnh hưởng của covid-19",
+    "content": "2. Đối với người lao động đã dừng tham gia bảo hiểm thất nghiệp\na) Người lao động đề nghị cơ quan bảo hiểm xã hội cấp tỉnh hoặc cấp huyện nơi người lao động có nhu cầu nhận hỗ trợ theo Mẫu số 04. Thời hạn tiếp nhận đề nghị hỗ trợ chậm nhất đến hết ngày 20 tháng 12 năm 2021.\nb) Trong thời hạn 10 ngày làm việc kể từ ngày nhận được đề nghị hỗ trợ của người lao động, cơ quan bảo hiểm xã hội chi trả tiền hỗ trợ cho người lao động, thời gian hoàn thành chậm nhất vào ngày 31 tháng 12 năm 2021. Khuyến khích chi trả thông qua tài khoản ngân hàng của người lao động.\nTrường hợp không chi trả hỗ trợ, cơ quan bảo hiểm xã hội thông báo bằng văn bản và nêu rõ lý do.",
+    "references": []
+  },
+  {
+    "id": "rule/177",
+    "lookUpId": "lookUp/56",
+    "keyphrase": "",
+    "content": "3. Sau ngày 30 tháng 11 năm 2021, người lao động thuộc đối tượng khoản 1 Điều này chưa nhận được hỗ trợ thì người lao động thực hiện theo quy định khoản 2 Điều này.",
+    "references": ["rule/175", "rule/176"]
+  },
+  {
+    "id": "rule/178",
+    "lookUpId": "lookUp/56",
+    "keyphrase": "hình thức thực hiện hỗ trợ cho người lao động bị ảnh hưởng của covid-19",
+    "content": "4. Hình thức thực hiện:\na) Trực tuyến thông qua Cổng Dịch vụ công Quốc gia, Cổng Dịch vụ công của Bảo hiểm xã hội Việt Nam hoặc các tổ chức cung cấp dịch vụ I-VAN hoặc ứng dụng Bảo hiểm xã hội số (VssID).\nb) Thông qua dịch vụ bưu chính.\nc) Trực tiếp tại cơ quan bảo hiểm xã hội cấp tỉnh hoặc cấp huyện.",
+    "references": []
+  },
+  {
+    "id": "rule/179",
+    "lookUpId": "lookUp/57",
+    "keyphrase": "",
+    "content": "Người sử dụng lao động quy định tại Điều 43 của Luật Việc làm đang tham gia bảo hiểm thất nghiệp trước ngày 01 tháng 10 năm 2021, không bao gồm các trường hợp sau:\n1. Cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị vũ trang nhân dân.\n2. Đơn vị sự nghiệp công lập do ngân sách nhà nước bảo đảm chi thường xuyên theo quy định tại Nghị định số 60/2021/NĐ-CP ngày 21 tháng 6 năm 2021 của Chính phủ quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập và các quy định pháp luật hiện hành về tự chủ tài chính của đơn vị sự nghiệp công lập.\nĐơn vị sự nghiệp công lập thuộc đối tượng được giảm đóng thì gửi cơ quan bảo hiểm xã hội nơi đơn vị đang tham gia bảo hiểm thất nghiệp 01 bản sao văn bản của cơ quan có thẩm quyền về việc đơn vị sự nghiệp công được phân loại tự chủ tài chính theo quy định tại Nghị định số 60/2021/NĐ-CP ngày 21 tháng 6 năm 2021 của Chính phủ quy định cơ chế tự chủ tài chính của đơn vị sự nghiệp công lập và các quy định pháp luật hiện hành về tự chủ tài chính của đơn vị sự nghiệp công lập.\n3. Không áp dụng đối với đối tượng tự nguyện không nhận hỗ trợ.",
+    "references": ["lookUp/03", "lookUp/54"]
+  },
+  {
+    "id": "rule/180",
+    "lookUpId": "lookUp/58",
+    "keyphrase": "hỗ trợ mức đóng cho người sử dụng lao động bị ảnh hưởng của covid-19",
+    "content": "1. Giảm mức đóng từ 1% xuống bằng 0% quỹ tiền lương tháng của những người lao động thuộc đối tượng đang tham gia bảo hiểm thất nghiệp.",
+    "references": []
+  },
+  {
+    "id": "rule/181",
+    "lookUpId": "lookUp/58",
+    "keyphrase": "thời gian thực hiện hỗ trợ cho người sử dụng lao động bị ảnh hưởng của covid-19",
+    "content": "2. Thời gian thực hiện giảm mức đóng: 12 tháng, kể từ ngày 01 tháng 10 năm 2021 đến hết ngày 30 tháng 9 năm 2022.",
+    "references": []
+  },
+  {
+    "id": "rule/182",
+    "lookUpId": "lookUp/58",
+    "keyphrase": "",
+    "content": "3. Hằng tháng, trong thời gian từ ngày 01 tháng 10 năm 2021 đến hết ngày 30 tháng 9 năm 2022, cơ quan bảo hiểm xã hội thực hiện giảm mức đóng bằng 0% quỹ tiền lương tháng của những người lao động thuộc đối tượng đang tham gia bảo hiểm thất nghiệp thuộc trách nhiệm của người sử dụng lao động.",
+    "references": []
+  }
+]

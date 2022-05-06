@@ -1,0 +1,408 @@
+[
+  {
+    "id": "article/01",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 41. Nguyên tắc bảo hiểm thất nghiệp",
+    "keyphrase": "nguyên tắc bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/01"
+  },
+  {
+    "id": "article/02",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 42. Các chế độ bảo hiểm thất nghiệp",
+    "keyphrase": "chế độ bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/02"
+  },
+  {
+    "id": "article/03",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 43. Đối tượng bắt buộc tham gia bảo hiểm thất nghiệp",
+    "keyphrase": "đối tượng tham gia bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/03"
+  },
+  {
+    "id": "article/17",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 44. Tham gia bảo hiểm thất nghiệp",
+    "keyphrase": "tham gia bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/17"
+  },
+  {
+    "id": "article/04",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 11. Tham gia bảo hiểm thất nghiệp",
+    "keyphrase": "tham gia bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/04"
+  },
+  {
+    "id": "article/10",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 3. Tham gia bảo hiểm thất nghiệp theo quy định tại Khoản 2 Điều 11 Nghị định số 28/2015/NĐ-CP",
+    "keyphrase": "tham gia bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/10"
+  },
+  {
+    "id": "article/05",
+    "laws": ["28/2015/NĐ-CP", "61/2020/NĐ-CP"],
+    "title": "Điều 12. Đóng bảo hiểm thất nghiệp",
+    "keyphrase": "đóng bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/05"
+  },
+  {
+    "id": "article/11",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 4. Đóng bảo hiểm thất nghiệp",
+    "keyphrase": "đóng bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/11"
+  },
+  {
+    "id": "article/07",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 45. Thời gian đóng bảo hiểm thất nghiệp",
+    "keyphrase": "thời gian đóng bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/07"
+  },
+  {
+    "id": "article/12",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 13. Hồ sơ theo dõi việc đóng, hưởng bảo hiểm thất nghiệp",
+    "keyphrase": "hồ sơ theo dõi việc đóng, hưởng bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/12"
+  },
+  {
+    "id": "article/13",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 46. Hưởng trợ cấp thất nghiệp",
+    "keyphrase": "hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/13"
+  },
+  {
+    "id": "article/14",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 47. Điều kiện, thời gian và mức hỗ trợ",
+    "keyphrase": "điều kiện, thời gian, mức hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "lookUpId": "lookUp/14"
+  },
+  {
+    "id": "article/16",
+    "laws": ["28/2015/NĐ-CP", "61/2020/NĐ-CP"],
+    "title": "Điều 3. Điều kiện được hỗ trợ",
+    "keyphrase": "điều kiện hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "lookUpId": "lookUp/16"
+  },
+  {
+    "id": "article/18",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 4. Mức hỗ trợ",
+    "keyphrase": "mức hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "lookUpId": "lookUp/18"
+  },
+  {
+    "id": "article/19",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 13. Văn bản đề nghị hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động",
+    "keyphrase": "hồ sơ đề nghị hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "lookUpId": "lookUp/19"
+  },
+  {
+    "id": "article/20",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 14. Phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề và duy trì việc làm",
+    "keyphrase": "phương án đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "lookUpId": "lookUp/20"
+  },
+  {
+    "id": "article/21",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 15. Mức hỗ trợ kinh phí đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề để duy trì việc làm cho người lao động theo quy định tại Khoản 1 Điều 4 Nghị định số 28/2015/NĐ-CP",
+    "keyphrase": "mức hỗ trợ đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "lookUpId": "lookUp/21"
+  },
+  {
+    "id": "article/15",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 48. Trách nhiệm đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "keyphrase": "trách nhiệm đào tạo, bồi dưỡng, nâng cao trình độ kỹ năng nghề",
+    "lookUpId": "lookUp/15"
+  },
+  {
+    "id": "article/06",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 49. Điều kiện hưởng",
+    "keyphrase": "điều kiện hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/06"
+  },
+  {
+    "id": "article/22",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 16. Hồ sơ đề nghị hưởng trợ cấp thất nghiệp",
+    "keyphrase": "hồ sơ đề nghị hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/22"
+  },
+  {
+    "id": "article/23",
+    "laws": ["28/2015/NĐ-CP", "61/2020/NĐ-CP"],
+    "title": "Điều 17. Nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp",
+    "keyphrase": "nộp hồ sơ đề nghị hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/23"
+  },
+  {
+    "id": "article/24",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 7. Người lao động không có nhu cầu hưởng trợ cấp thất nghiệp",
+    "keyphrase": "người lao động không có nhu cầu hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/24"
+  },
+  {
+    "id": "article/25",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 50. Mức, thời gian, thời điểm hưởng trợ cấp thất nghiệp",
+    "keyphrase": "mức, thời gian, thời điểm hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/25"
+  },
+  {
+    "id": "article/26",
+    "laws": ["28/2015/NĐ-CP", "61/2020/NĐ-CP"],
+    "title": "Điều 18. Giải quyết hưởng trợ cấp thất nghiệp",
+    "keyphrase": "giải quyết hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/26"
+  },
+  {
+    "id": "article/27",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 8. Mức hưởng và tháng hưởng trợ cấp thất nghiệp",
+    "keyphrase": "mức hưởng, tháng hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/27"
+  },
+  {
+    "id": "article/28",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 51. Bảo hiểm y tế",
+    "keyphrase": "bảo hiểm y tế trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/28"
+  },
+  {
+    "id": "article/29",
+    "laws": ["28/2015/NĐ-CP", "61/2020/NĐ-CP"],
+    "title": "Điều 23. Hưởng bảo hiểm y tế",
+    "keyphrase": "hưởng bảo hiểm y tế trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/29"
+  },
+  {
+    "id": "article/09",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 52. Thông báo về việc tìm kiếm việc làm",
+    "keyphrase": "thông báo việc tìm kiếm việc làm khi đang hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/09"
+  },
+  {
+    "id": "article/30",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 10. Thông báo về việc tìm kiếm việc làm theo quy định tại Điều 52 Luật Việc làm",
+    "keyphrase": "thông báo việc tìm kiếm việc làm khi đang hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/30"
+  },
+  {
+    "id": "article/08",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 53. Tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp",
+    "keyphrase": "tạm dừng, tiếp tục, chấm dứt hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/08"
+  },
+  {
+    "id": "article/31",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 19. Tạm dừng hưởng trợ cấp thất nghiệp",
+    "keyphrase": "tạm dừng hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/31"
+  },
+  {
+    "id": "article/32",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 20. Tiếp tục hưởng trợ cấp thất nghiệp",
+    "keyphrase": "tiếp tục hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/32"
+  },
+  {
+    "id": "article/33",
+    "laws": ["28/2015/NĐ-CP", "61/2020/NĐ-CP"],
+    "title": "Điều 21. Chấm dứt hưởng trợ cấp thất nghiệp",
+    "keyphrase": "chấm dứt hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/33"
+  },
+  {
+    "id": "article/34",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 9. Bảo lưu thời gian đóng bảo hiểm thất nghiệp",
+    "keyphrase": "bảo lưu thời gian đóng bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/34"
+  },
+  {
+    "id": "article/35",
+    "laws": ["28/2015/NĐ-CP", "61/2020/NĐ-CP"],
+    "title": "Điều 22. Chuyển nơi hưởng trợ cấp thất nghiệp",
+    "keyphrase": "chuyển nơi hưởng trợ cấp thất nghiệp",
+    "lookUpId": "lookUp/35"
+  },
+  {
+    "id": "article/36",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 54. Tư vấn, giới thiệu việc làm",
+    "keyphrase": "tư vấn, giới thiệu việc làm",
+    "lookUpId": "lookUp/36"
+  },
+  {
+    "id": "article/37",
+    "laws": ["28/2015/NĐ-CP", "61/2020/NĐ-CP"],
+    "title": "Điều 14. Hỗ trợ tư vấn, giới thiệu việc làm",
+    "keyphrase": "hỗ trợ tư vấn, giới thiệu việc làm",
+    "lookUpId": "lookUp/37"
+  },
+  {
+    "id": "article/38",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 15. Tổ chức tư vấn, giới thiệu việc làm",
+    "keyphrase": "tổ chức tư vấn, giới thiệu việc làm",
+    "lookUpId": "lookUp/38"
+  },
+  {
+    "id": "article/39",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 5. Trình tự, thủ tục tư vấn, giới thiệu việc làm theo quy định tại Điều 15 Nghị định số 28/2015/NĐ-CP",
+    "keyphrase": "thủ tục tổ chức tư vấn, giới thiệu việc làm",
+    "lookUpId": "lookUp/39"
+  },
+  {
+    "id": "article/40",
+    "laws": ["28/2015/TT-BLĐTBXH"],
+    "title": "Điều 6. Từ chối nhận việc làm theo quy định tại Điểm đ Khoản 1 Điều 21 Nghị định số 28/2015/NĐ-CP",
+    "keyphrase": "từ chối nhận việc làm từ tư vấn giới thiệu việc làm",
+    "lookUpId": "lookUp/40"
+  },
+  {
+    "id": "article/41",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 55. Điều kiện được hỗ trợ học nghề",
+    "keyphrase": "điều kiện hỗ trợ học nghề",
+    "lookUpId": "lookUp/41"
+  },
+  {
+    "id": "article/42",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 56. Thời gian, mức hỗ trợ học nghề",
+    "keyphrase": "thời gian, mức hỗ trợ học nghề",
+    "lookUpId": "lookUp/42"
+  },
+  {
+    "id": "article/43",
+    "laws": ["28/2015/NĐ-CP", "61/2020/NĐ-CP"],
+    "title": "Điều 24. Hồ sơ đề nghị hỗ trợ học nghề",
+    "keyphrase": "hồ sơ đề nghị hỗ trợ học nghề",
+    "lookUpId": "lookUp/43"
+  },
+  {
+    "id": "article/44",
+    "laws": ["28/2015/NĐ-CP", "61/2020/NĐ-CP"],
+    "title": "Điều 25. Giải quyết hỗ trợ học nghề",
+    "keyphrase": "giải quyết hỗ trợ học nghề",
+    "lookUpId": "lookUp/44"
+  },
+  {
+    "id": "article/45",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 57. Mức đóng, nguồn hình thành và sử dụng Quỹ bảo hiểm thất nghiệp",
+    "keyphrase": "mức đóng, nguồn hình thành, sử dụng quỹ bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/45"
+  },
+  {
+    "id": "article/46",
+    "laws": ["38/2013/QH13"],
+    "title": "Điều 58. Tiền lương làm căn cứ đóng bảo hiểm thất nghiệp",
+    "keyphrase": "tiền lương căn cứ đóng bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/46"
+  },
+  {
+    "id": "article/47",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 6. Phương thức đóng và nguồn đóng bảo hiểm thất nghiệp của người sử dụng lao động",
+    "keyphrase": "phương thức đóng, nguồn đóng bảo hiểm thất nghiệp của người sử dụng lao động",
+    "lookUpId": "lookUp/47"
+  },
+  {
+    "id": "article/48",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 29. Quyền của người lao động",
+    "keyphrase": "quyền của người lao động tham gia bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/48"
+  },
+  {
+    "id": "article/49",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 30. Nghĩa vụ của người lao động",
+    "keyphrase": "nghĩa vụ của người lao động tham gia bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/49"
+  },
+  {
+    "id": "article/50",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 31. Quyền của người sử dụng lao động",
+    "keyphrase": "quyền của người sử dụng lao động tham gia bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/50"
+  },
+  {
+    "id": "article/51",
+    "laws": ["28/2015/NĐ-CP"],
+    "title": "Điều 32. Trách nhiệm của người sử dụng lao động",
+    "keyphrase": "trách nhiệm của người sử dụng lao động tham gia bảo hiểm thất nghiệp",
+    "lookUpId": "lookUp/51"
+  },
+  {
+    "id": "article/52",
+    "laws": ["77/2014/QĐ-TTg"],
+    "title": "Điều 3. Mức hỗ trợ học nghề",
+    "keyphrase": "mức hỗ trợ học nghề",
+    "lookUpId": "lookUp/52"
+  },
+  {
+    "id": "article/53",
+    "laws": ["28/2021/QĐ-TTg", "3535/LĐTBXH-VL"],
+    "title": "Điều 1. Đối tượng được hỗ trợ",
+    "keyphrase": "đối tượng người lao động bị ảnh hưởng của covid-19 được hỗ trợ",
+    "lookUpId": "lookUp/53"
+  },
+  {
+    "id": "article/54",
+    "laws": ["60/2021/NĐ-CP"],
+    "title": "Điều 2. Đối tượng áp dụng",
+    "keyphrase": "đối tượng áp dụng cơ chế tự chủ tài chính",
+    "lookUpId": "lookUp/54"
+  },
+  {
+    "id": "article/55",
+    "laws": ["28/2021/QĐ-TTg"],
+    "title": "Điều 2. Thời gian đóng bảo hiểm thất nghiệp làm căn cứ tính và mức hỗ trợ",
+    "keyphrase": "thời gian đóng bảo hiểm thất nghiệp và mức hỗ trợ cho người lao động bị ảnh hưởng của covid-19",
+    "lookUpId": "lookUp/55"
+  },
+  {
+    "id": "article/56",
+    "laws": ["28/2021/QĐ-TTg"],
+    "title": "Điều 3. Trình tự, thủ tục thực hiện",
+    "keyphrase": "thủ tục thực hiện hỗ trợ cho người lao động bị ảnh hưởng của covid-19",
+    "lookUpId": "lookUp/56"
+  },
+  {
+    "id": "article/57",
+    "laws": ["28/2021/QĐ-TTg"],
+    "title": "Điều 4. Đối tượng được hỗ trợ",
+    "keyphrase": "đối tượng người sử dụng lao động bị ảnh hưởng của covid-19 được hỗ trợ",
+    "lookUpId": "lookUp/57"
+  },
+  {
+    "id": "article/58",
+    "laws": ["28/2021/QĐ-TTg"],
+    "title": "Điều 5. Giảm mức đóng và thời gian thực hiện",
+    "keyphrase": "hỗ trợ mức đóng, thời gian thực hiện hỗ trợ cho người sử dụng lao động bị ảnh hưởng của covid-19",
+    "lookUpId": "lookUp/58"
+  }
+]

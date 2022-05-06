@@ -1,0 +1,387 @@
+[
+  {
+    "id": "lookUp/01",
+    "article": "article/01",
+    "rules": ["rule/01", "rule/02", "rule/03", "rule/04", "rule/05"],
+    "references": []
+  },
+  {
+    "id": "lookUp/02",
+    "article": "article/02",
+    "rules": ["rule/06", "rule/07", "rule/08", "rule/09"],
+    "references": []
+  },
+  {
+    "id": "lookUp/03",
+    "article": "article/03",
+    "rules": ["rule/10", "rule/11", "rule/12"],
+    "references": []
+  },
+  {
+    "id": "lookUp/04",
+    "article": "article/04",
+    "rules": ["rule/13", "rule/14"],
+    "references": []
+  },
+  {
+    "id": "lookUp/05",
+    "article": "article/05",
+    "rules": ["rule/15", "rule/16", "rule/17"],
+    "references": []
+  },
+  {
+    "id": "lookUp/06",
+    "article": "article/06",
+    "rules": ["rule/18"],
+    "references": []
+  },
+  {
+    "id": "lookUp/07",
+    "article": "article/07",
+    "rules": ["rule/19", "rule/20", "rule/21"],
+    "references": []
+  },
+  {
+    "id": "lookUp/08",
+    "article": "article/08",
+    "rules": ["rule/22", "rule/23", "rule/24", "rule/25"],
+    "references": []
+  },
+  {
+    "id": "lookUp/09",
+    "article": "article/09",
+    "rules": ["rule/26", "rule/27", "rule/28"],
+    "references": []
+  },
+  {
+    "id": "lookUp/10",
+    "article": "article/10",
+    "rules": ["rule/29", "rule/30", "rule/31"],
+    "references": ["rule/14"]
+  },
+  {
+    "id": "lookUp/11",
+    "article": "article/11",
+    "rules": ["rule/32", "rule/33"],
+    "references": []
+  },
+  {
+    "id": "lookUp/12",
+    "article": "article/12",
+    "rules": ["rule/34", "rule/35"],
+    "references": []
+  },
+  {
+    "id": "lookUp/13",
+    "article": "article/13",
+    "rules": ["rule/36", "rule/37", "rule/38"],
+    "references": []
+  },
+  {
+    "id": "lookUp/14",
+    "article": "article/14",
+    "rules": ["rule/39", "rule/40", "rule/41"],
+    "references": []
+  },
+  {
+    "id": "lookUp/15",
+    "article": "article/15",
+    "rules": ["rule/42", "rule/43"],
+    "references": []
+  },
+  {
+    "id": "lookUp/16",
+    "article": "article/16",
+    "rules": ["rule/44"],
+    "references": []
+  },
+  {
+    "id": "lookUp/17",
+    "article": "article/17",
+    "rules": ["rule/45", "rule/46", "rule/47"],
+    "references": []
+  },
+  {
+    "id": "lookUp/18",
+    "article": "article/18",
+    "rules": ["rule/48", "rule/49"],
+    "references": []
+  },
+  {
+    "id": "lookUp/19",
+    "article": "article/19",
+    "rules": ["rule/50"],
+    "references": []
+  },
+  {
+    "id": "lookUp/20",
+    "article": "article/20",
+    "rules": ["rule/51"],
+    "references": []
+  },
+  {
+    "id": "lookUp/21",
+    "article": "article/21",
+    "rules": ["rule/52"],
+    "references": ["rule/48"]
+  },
+  {
+    "id": "lookUp/22",
+    "article": "article/22",
+    "rules": ["rule/53", "rule/54", "rule/55"],
+    "references": []
+  },
+  {
+    "id": "lookUp/23",
+    "article": "article/23",
+    "rules": ["rule/56", "rule/57", "rule/58", "rule/59"],
+    "references": []
+  },
+  {
+    "id": "lookUp/24",
+    "article": "article/24",
+    "rules": ["rule/60"],
+    "references": []
+  },
+  {
+    "id": "lookUp/25",
+    "article": "article/25",
+    "rules": ["rule/61", "rule/62", "rule/63"],
+    "references": []
+  },
+  {
+    "id": "lookUp/26",
+    "article": "article/26",
+    "rules": ["rule/64", "rule/65", "rule/66", "rule/68", "rule/69", "rule/70"],
+    "references": []
+  },
+  {
+    "id": "lookUp/27",
+    "article": "article/27",
+    "rules": ["rule/71", "rule/72", "rule/73"],
+    "references": []
+  },
+  {
+    "id": "lookUp/28",
+    "article": "article/28",
+    "rules": ["rule/74", "rule/75"],
+    "references": []
+  },
+  {
+    "id": "lookUp/29",
+    "article": "article/29",
+    "rules": ["rule/76", "rule/77"],
+    "references": []
+  },
+  {
+    "id": "lookUp/30",
+    "article": "article/30",
+    "rules": ["rule/78", "rule/79", "rule/80", "rule/81", "rule/82", "rule/83"],
+    "references": ["lookUp/09"]
+  },
+  {
+    "id": "lookUp/31",
+    "article": "article/31",
+    "rules": ["rule/84", "rule/85"],
+    "references": []
+  },
+  {
+    "id": "lookUp/32",
+    "article": "article/32",
+    "rules": ["rule/86", "rule/87"],
+    "references": []
+  },
+  {
+    "id": "lookUp/33",
+    "article": "article/33",
+    "rules": ["rule/88", "rule/89", "rule/90", "rule/91", "rule/92"],
+    "references": []
+  },
+  {
+    "id": "lookUp/34",
+    "article": "article/34",
+    "rules": ["rule/93", "rule/94", "rule/95", "rule/96"],
+    "references": []
+  },
+  {
+    "id": "lookUp/35",
+    "article": "article/35",
+    "rules": ["rule/67", "rule/97", "rule/98", "rule/99", "rule/100"],
+    "references": []
+  },
+  {
+    "id": "lookUp/36",
+    "article": "article/36",
+    "rules": ["rule/101"],
+    "references": []
+  },
+  {
+    "id": "lookUp/37",
+    "article": "article/37",
+    "rules": ["rule/102", "rule/103", "rule/104"],
+    "references": []
+  },
+  {
+    "id": "lookUp/38",
+    "article": "article/38",
+    "rules": ["rule/105", "rule/106", "rule/107"],
+    "references": []
+  },
+  {
+    "id": "lookUp/39",
+    "article": "article/39",
+    "rules": ["rule/108", "rule/109", "rule/110", "rule/111"],
+    "references": ["lookUp/38"]
+  },
+  {
+    "id": "lookUp/40",
+    "article": "article/40",
+    "rules": ["rule/112"],
+    "references": ["rule/88"]
+  },
+  {
+    "id": "lookUp/41",
+    "article": "article/41",
+    "rules": ["rule/113"],
+    "references": []
+  },
+  {
+    "id": "lookUp/42",
+    "article": "article/42",
+    "rules": ["rule/114", "rule/115"],
+    "references": []
+  },
+  {
+    "id": "lookUp/43",
+    "article": "article/43",
+    "rules": ["rule/116", "rule/117", "rule/118"],
+    "references": []
+  },
+  {
+    "id": "lookUp/44",
+    "article": "article/44",
+    "rules": [
+      "rule/119",
+      "rule/120",
+      "rule/121",
+      "rule/122",
+      "rule/123",
+      "rule/124"
+    ],
+    "references": []
+  },
+  {
+    "id": "lookUp/45",
+    "article": "article/45",
+    "rules": ["rule/125", "rule/126", "rule/127"],
+    "references": []
+  },
+  {
+    "id": "lookUp/46",
+    "article": "article/46",
+    "rules": ["rule/128", "rule/129"],
+    "references": []
+  },
+  {
+    "id": "lookUp/47",
+    "article": "article/47",
+    "rules": ["rule/130", "rule/131"],
+    "references": []
+  },
+  {
+    "id": "lookUp/48",
+    "article": "article/48",
+    "rules": [
+      "rule/132",
+      "rule/133",
+      "rule/134",
+      "rule/135",
+      "rule/136",
+      "rule/137"
+    ],
+    "references": []
+  },
+  {
+    "id": "lookUp/49",
+    "article": "article/49",
+    "rules": [
+      "rule/138",
+      "rule/139",
+      "rule/140",
+      "rule/141",
+      "rule/142",
+      "rule/143",
+      "rule/144",
+      "rule/145",
+      "rule/146",
+      "rule/147",
+      "rule/148"
+    ],
+    "references": []
+  },
+  {
+    "id": "lookUp/50",
+    "article": "article/50",
+    "rules": ["rule/149", "rule/150", "rule/151", "rule/152"],
+    "references": []
+  },
+  {
+    "id": "lookUp/51",
+    "article": "article/51",
+    "rules": [
+      "rule/153",
+      "rule/154",
+      "rule/155",
+      "rule/156",
+      "rule/157",
+      "rule/158",
+      "rule/159",
+      "rule/160",
+      "rule/161",
+      "rule/162"
+    ],
+    "references": []
+  },
+  {
+    "id": "lookUp/52",
+    "article": "article/52",
+    "rules": ["rule/163", "rule/164"],
+    "references": []
+  },
+  {
+    "id": "lookUp/53",
+    "article": "article/53",
+    "rules": ["rule/165", "rule/166", "rule/167", "rule/172"],
+    "references": []
+  },
+  {
+    "id": "lookUp/54",
+    "article": "article/54",
+    "rules": ["rule/168", "rule/169", "rule/170", "rule/171"],
+    "references": []
+  },
+  {
+    "id": "lookUp/55",
+    "article": "article/55",
+    "rules": ["rule/173", "rule/174"],
+    "references": []
+  },
+  {
+    "id": "lookUp/56",
+    "article": "article/56",
+    "rules": ["rule/175", "rule/176", "rule/177", "rule/178"],
+    "references": []
+  },
+  {
+    "id": "lookUp/57",
+    "article": "article/57",
+    "rules": ["rule/179"],
+    "references": []
+  },
+  {
+    "id": "lookUp/58",
+    "article": "article/58",
+    "rules": ["rule/180", "rule/181", "rule/182"],
+    "references": []
+  }
+]
