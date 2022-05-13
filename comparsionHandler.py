@@ -6,6 +6,10 @@ from enums import DataPathTypes, AdditionScores
 
 
 class ComparisonHandler(ConceptualGraph):
+    """
+    This class is for handling comparison between 2 conceptual graphs\n
+    It inherits from conceptual graph to save similar graph between the two which were compared
+    """
     def __init__(self, graph_1, graph_2):
         """
         Input: graph_1 and graph_2 for initialization of same graph between them
@@ -51,17 +55,29 @@ class ComparisonHandler(ConceptualGraph):
         return len(self.getEdges())
 
     def __conceptual_similarity(self):
+        """
+        Output: score of similarity in nodes
+        """
         return (2*self.nGcs)/(self.nG1s + self.nG2s)
 
     def __relational_similarity(self):
+        """
+        Output: score of similarity in edges
+        """
         denominator = self.mGcG1 + self.mGcG2
         return (2*self.mGc)/denominator if denominator != 0 else 0
 
     def __calculate_a(self):
+        """
+        Output: score of a
+        """
         denominator = 2*self.nGcs + self.mGcG1 + self.mGcG2
         return (2*self.nGcs)/denominator if denominator != 0 else 0
 
     def getSimilarityScore(self, dataType):
+        """
+        Output: score of similarity
+        """
         addition_type_score = AdditionScores.IS_ARTICLE.value if dataType == DataPathTypes.ARTICLES else 0
         similariy_score = self.__conceptual_similarity() * (self.__calculate_a() +
                                                             (1 - self.__calculate_a()) * self.__relational_similarity())

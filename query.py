@@ -1,3 +1,4 @@
+# sample collected queries
 query_data = [
     "Người đang hưởng trợ cấp thất nghiệp có được hưởng chế độ bảo hiểm y tế không?",
     "Điều kiện để được hỗ trợ học nghề ?",

@@ -10,7 +10,13 @@ from query_handler import reduce_words
 
 
 class DataHandler:
+    """
+    This class is for handling raw data from json, including: read, retrieve, create graphs and compare them
+    """
     def __init__(self, lawsPath, articlesPath, rulesPath, lookupsPath):
+        """
+        Input: path to laws, articles, rules, lookups data
+        """
         self.laws = self.__retrieveData(lawsPath)
         self.articles = self.__retrieveData(articlesPath)
         self.rules = self.__retrieveData(rulesPath)
@@ -73,11 +79,12 @@ class DataHandler:
             return self.lookups
 
     def compare(self, graph):
-        result = []
         """
         Input: Graph of query that we want to compare
         Output: list of top similarities of this graph to data
         """
+        result = []
+
         for data in self.graphs:
             # print("------------------------")
             comparisonHandler = ComparisonHandler(graph, data[0])
@@ -101,10 +108,18 @@ class DataHandler:
         return result
 
     def getDataFromId(self, id, type):
+        """
+        Input: id and type of data we want to get
+        Ouput: json of the founded data
+        """
         return list(filter(lambda val: val["id"] == id, self.articles if type ==
                            DataPathTypes.ARTICLES else self.rules))[0]
 
     def getLookUpFromId(self, id, type):
+        """
+        Input: id and type of data we want to find its lookUp data
+        Ouput: json of the founded lookUp data
+        """
         lookUpId = self.getDataFromId(id, type)["lookUpId"]
         return list(filter(lambda lk: lk["id"] == lookUpId, self.lookups))[0]
 
@@ -133,6 +148,10 @@ class DataHandler:
             return self.getArticleTitle(lookUp["article"], DataPathTypes.ARTICLES)
 
     def getContentData(self, id, type):
+        """
+        Input: id and type of the data that we want to read it content
+        Output: the string content that we are looking for
+        """
         lookUp = self.getLookUpFromId(id, type)
         refers = []
         for refer in lookUp["references"]:
@@ -157,25 +176,49 @@ class DataHandler:
         return (content, refers)
 
     def getLawFromCode(self, code):
+        """
+        Input: code of the law that we want to get its data
+        Output: json data of the founded law
+        """
         return list(filter(lambda law: law["code"] == code, self.laws))[0]
 
     def getArticleFromRule(self, id):
+        """
+        Input: id of the rule that we want to get its parent's article
+        Output: json data of the founded article
+        """
         lookUp = self.getLookUpFromId(id, DataPathTypes.RULES)
         return self.getDataFromId(lookUp["article"], DataPathTypes.ARTICLES)
 
     def getCodeList(self, id, type):
+        """
+        Input: id and type of the law that we want to get its parents'laws
+        Output: list code of the founded laws parents
+        """
         return self.getDataFromId(id, type)['laws'] if type == DataPathTypes.ARTICLES else self.getArticleFromRule(id)['laws']
 
     def getLawTitlesFromList(self, id, type):
+        """
+        Input: id and type of the data that we want to get its laws'title
+        Output: list string title of the founded laws 
+        """
         result = []
         for code in self.getCodeList(id, type):
             result.append(self.getLawFromCode(code)['title'])
         return result
 
     def getDataGraphFromId(self, id):
+        """
+        Input: id of the data graph that we want to retrieve (data graph is the whole conceptual graph)
+        Output: the founded data graph
+        """
         return list(filter(lambda graph: graph[1] == id, self.graphs))
 
     def getContentFromId(self, itemId):
+        """
+        Input: id of items that we want to retrieve its content
+        Output: string of contents that connected to input id
+        """
         data = self.getDataGraphFromId(itemId)
         type = data[0][2] if data else DataPathTypes.RULES
         result = "Theo "
@@ -203,4 +246,7 @@ class DataHandler:
         return result
 
     def print(self):
+        """
+        Output: print whatever data we want to test
+        """
         print(self.laws)

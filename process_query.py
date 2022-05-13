@@ -2,6 +2,10 @@ from underthesea import word_tokenize, chunk, pos_tag, ner, classify
 
 
 def filter_words(input_list):
+    """
+    Input: list of word with pos_tag
+    Output: list of string that doesn't contain redundant words in term of tag
+    """
     reduced = []
     index = 0
     #print(input_list)
@@ -43,6 +47,10 @@ def filter_words(input_list):
 
 
 def check_unnecessaries(word, word_previous, word_behind):
+    """
+    Input: current word, previous and behind it\n
+    Output: number of words that is considered unnecessary, started from current
+    """
     if((word == 'có' and word_behind == 'được')
        or (word == 'diễn' and word_behind == 'ra')
        or ((word == 'các' or word == 'những') and word_behind == 'bước') or (word == 'không' and (word_behind == '?' or word_behind == ''))):
@@ -59,6 +67,10 @@ def check_unnecessaries(word, word_previous, word_behind):
 
 
 def convert_synonyms(word, word_previous, word_behind):
+    """
+    Input: current word, previous and behind it\n
+    Output: return synonym that is determined to use instead of input word
+    """
     if word == 'thời hạn':
         return "thời gian"
     elif word == 'xử lí' or word == 'xử lý' or word == 'duyệt':

@@ -10,6 +10,11 @@ from enums import VariableTypes
 
 
 def handle_in_query(query):
+    """
+    Input: input query\n
+    Process: start check unecessary and filter redundant words\n
+    Output: return query reduced  
+    """
     query_tokenizes = word_tokenize(query)
     result = []
     exclude_next = False
@@ -39,6 +44,12 @@ def handle_in_query(query):
 
 
 def reduce_words(query):
+    """
+    Input: input query\n
+    Process: start handle query then use pos_tag to get list of tags and run filter words in this list\n
+    when we have keywords, we start to group these in comparison with priored phrases in data\n
+    Output: list of tuple (word, tag, priority_state)
+    """
     # print("------------------------------------------")
     # print("Gốc:", query)
     query = filter_words(pos_tag(handle_in_query(query)))
@@ -86,6 +97,13 @@ def reduce_words(query):
 
 
 def getChildLength(title, data, query):
+    """
+    Input: title is current word that we want to compare with priored words, data is priored phrase, input query\n
+    Process: find appearance of input priored phrase in query starting from input title\n
+    Output: return tuple (step, length of similarity)\n
+    With step is number of word that we have to skip from current word\n
+    With lenght of similarity from starting at current word and ending at word that is last appeared in priored phrase
+    """
     wordsList = filter_words(pos_tag(data[0]))
     data_types_included = checkVariableTypesIncluded(wordsList)
     start = -1
@@ -126,6 +144,11 @@ def getChildLength(title, data, query):
 
 
 def checkVariableTypesIncluded(wordsList):
+    """
+    Input: list of words\n
+    Process: check types included in this list\n
+    Output: return types this list based on [VariableTypes]
+    """
     data_has_verb = False
     data_has_noun = False
     for item in wordsList:
@@ -143,25 +166,3 @@ def checkVariableTypesIncluded(wordsList):
         return VariableTypes.ONLY_VERBS
     elif data_has_noun:
         return VariableTypes.ONLY_NOUNS
-
-
-def define_connection(word_1, word_2):
-    type_of_connection = ""
-    if(word_2[1] == 'V'):
-        for item in data_type:
-            value = item.getConntectorType(word_1[0])
-            if value:
-                type_of_connection = value
-        if type_of_connection == 'người':
-            return 'tác nhân'
-        else:
-            return 'ngữ cảnh'
-    else:
-        for item in data_type:
-            value = item.getConntectorType(word_2[0])
-            if value:
-                type_of_connection = value
-        if not type_of_connection:
-            return 'đối tượng'
-        else:
-            return type_of_connection

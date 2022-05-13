@@ -2,11 +2,11 @@ from typing import List, Tuple
 from enums import AdditionScores
 
 class KeywordsHandler:
-    score_table = [AdditionScores.RELEVANT_THEME.value, AdditionScores.RELEVANT_WORD.value]
     """
     Score table for evaluation is a hard configuration\n
     It has the same size with words_list that is intended to be inputed so that we can compare parallelly between 2 lists
     """
+    score_table = [AdditionScores.RELEVANT_THEME.value, AdditionScores.RELEVANT_WORD.value]
 
     def __init__(self, words_list):
         """

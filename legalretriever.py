@@ -163,11 +163,17 @@ class Ui_MainWindow(object):
         self.label.setText(_translate("MainWindow", "Nội dung"))
 
     def loadData(self):
+        """
+        Load data from raw JSONs
+        """
         dir = "./data/"
         self.dataHandler = DataHandler(
             dir+"laws.json", dir+"articles.json", dir+"rules.json", dir+"lookups.json")
 
     def onRetrieveClicked(self):
+        """
+        This is for handling "Tra cứu" button, init query graph and compare it to data then show the result to the table 
+        """
         self.__toQueryView()
 
         comparison_result = self.dataHandler.compare(self.getGraphFromQuery())
@@ -182,6 +188,9 @@ class Ui_MainWindow(object):
         self.tableWidget.sortItems(4, QtCore.Qt.DescendingOrder)
 
     def getGraphFromQuery(self):
+        """
+        Output: conceptual graph that is initted from query in text box
+        """
         input_value = self.textEdit.toPlainText()
         reduced = reduce_words(
             input_value if input_value else str(self.comboBox.currentText()))
@@ -189,6 +198,10 @@ class Ui_MainWindow(object):
         return ConceptualGraph(reduced)
 
     def showGraph(self, graph, type):
+        """
+        Input: graph and type of it that we want to show\n
+        Process type with diff colors the draw it on the canvas
+        """
         self.figure.clf()
 
         labeldict = {}
@@ -209,6 +222,9 @@ class Ui_MainWindow(object):
         self.canvas.draw_idle()
 
     def createVerticalGroupBox(self):
+        """
+        Create buttons to switch between graphs
+        """
         self.verticalGroupBox = QtWidgets.QGroupBox()
 
         layout = QtWidgets.QVBoxLayout()
@@ -227,18 +243,30 @@ class Ui_MainWindow(object):
                 button.clicked.connect(self.__toSimilarityView)
 
     def __toQueryView(self):
+        """
+        Switch to query graph view
+        """
         self.tagOfCurrentTab = GraphTypes.QUERY
         self.defineGraphToShow("")
 
     def __toDataView(self):
+        """
+        Switch to data graph view
+        """
         self.tagOfCurrentTab = GraphTypes.DATA
         self.handleItemClicked()
 
     def __toSimilarityView(self):
+        """
+        Switch to similarity graph view
+        """
         self.tagOfCurrentTab = GraphTypes.SIMILARITY
         self.handleItemClicked()
 
     def handleItemClicked(self):
+        """
+        Handle to show content from id get from clicked row on table
+        """
         indexes = self.tableWidget.selectedIndexes()
         if indexes and len(indexes) == 1:
             itemID = indexes[0].siblingAtColumn(0).data()
@@ -247,6 +275,10 @@ class Ui_MainWindow(object):
                 self.dataHandler.getContentFromId(itemID))
 
     def defineGraphToShow(self, itemID):
+        """
+        Input: id of item that we want to show graph\n
+        Define the selected type of graph then show it
+        """
         if self.tagOfCurrentTab == GraphTypes.DATA:
             graph = self.dataHandler.getDataGraphFromId(itemID)[0][0]
         elif self.tagOfCurrentTab == GraphTypes.SIMILARITY:

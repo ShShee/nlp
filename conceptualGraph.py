@@ -2,6 +2,9 @@ import networkx as nx
 
 
 class ConceptualGraph:
+    """
+    This class is for handling conceptual graphs from data
+    """
     def __init__(self, keywords):
         """
         Input: List of keywords to init graph
@@ -23,6 +26,9 @@ class ConceptualGraph:
         return edges
 
     def getGraph(self):
+        """
+        Output: this main graph
+        """
         return self.graph
 
     def getNodes(self):
@@ -47,6 +53,9 @@ class ConceptualGraph:
         return self.graph.edges
 
     def print(self):
+        """
+        Output: Print nodes and edges of this graph
+        """
         print("Nodes:", self.graph.nodes)
         print("Edges:", self.graph.edges)
 
