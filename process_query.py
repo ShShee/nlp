@@ -65,39 +65,45 @@ def check_unnecessaries(word, word_previous, word_behind):
     else:
         return 0
 
-
 def convert_synonyms(word, word_previous, word_behind):
     """
     Input: current word, previous and behind it\n
     Output: return synonym that is determined to use instead of input word
     """
-    if word == 'thời hạn':
-        return "thời gian"
-    elif word == 'xử lí' or word == 'xử lý' or word == 'duyệt':
-        return "giải quyết"
-    elif word == 'giấy tờ' or word == 'văn bản':
-        return "hồ sơ"
-    elif word == 'corona' or word == 'ncov':
-        return "covid-19"
-    elif (word == 'xin' or word == 'yêu cầu') and word_behind != 'đề nghị':
+
+    if (word == 'xin' or word == 'yêu cầu') and word_behind != 'đề nghị':
         return "đề nghị"
-    elif word == 'nộp' or word == 'gửi':
-        return "nộp"
     elif word == 'nhận' and (word_behind == 'trợ cấp' or word_behind == 'hỗ trợ'):
         return "hưởng"
-    elif word == 'trình tự' or word == 'quy trình':  # and word_behind != 'thủ tục'
-        return "thủ tục"
-    elif word == 'trách nhiệm':
-        return "nghĩa vụ"
     elif word == 'thay đổi' and word_behind == 'nơi':
         return "chuyển"
     elif word == 'mong muốn' and word_previous == 'có':
         return "nhu cầu"
-    elif (word == 'dừng' and word_previous != 'tạm') or word == 'kết thúc':
+    elif word == 'dừng' and word_previous != 'tạm':
         return "chấm dứt"
     elif word == 'trao' and word_behind == 'quyền':
         return "ủy"
-    elif word == 'ngưng' or word == 'ngừng':
-        return "tạm dừng"
     else:
-        return word
+        return dictSynonyms(word)
+
+
+def dictSynonyms(word):
+    return {
+        'thời hạn': "thời gian",
+        'xử lí':  "giải quyết",
+        'xử lý':  "giải quyết",
+        'duyệt':  "giải quyết",
+        'giấy tờ':  "hồ sơ",
+        'văn bản':  "hồ sơ",
+        'corona':  "covid-19",
+        'ncov':  "covid-19",
+        'gửi':  "nộp",
+        'gửi':  "nộp",
+        'trình tự': "thủ tục",
+        "quy trình": "thủ tục",
+        "trách nhiệm": "nghĩa vụ",
+        "kết thúc": "chấm dứt",
+        "đối với": "khi",
+        "ngưng": "tạm dừng",
+        "ngừng": "tạm dừng"
+    }.get(word, word)
